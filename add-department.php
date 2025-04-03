@@ -8,7 +8,7 @@
     <meta name="keywords" content="">
     <meta name="author" content="">
     <meta name="robots" content="">
-    <title>Astrik Manager | Add Employee</title>
+    <title>Admin Area | Add Employee</title>
 
     <?php include 'includes/style.php'; ?>
     Performance
@@ -29,7 +29,7 @@
             <!-- Breadcrumb -->
             <div class="d-md-flex d-block align-items-center justify-content-between page-breadcrumb mb-3">
                 <div class="my-auto mb-2">
-                    <h2 class="mb-1">Departments</h2>
+                    <h2 class="mb-1">Add Departments</h2>
                     <nav>
                         <ol class="breadcrumb mb-0">
                             <li class="breadcrumb-item">
@@ -44,7 +44,7 @@
                 </div>
                 <div class="d-flex my-xl-auto right-content align-items-center flex-wrap ">
                     <div class="me-2 mb-2">
-                        <div class="dropdown">
+                        <!-- <div class="dropdown">
                             <a href="javascript:void(0);" class="dropdown-toggle btn btn-white d-inline-flex align-items-center" data-bs-toggle="dropdown">
                                 <i class="ti ti-file-export me-1"></i>Export
                             </a>
@@ -56,7 +56,7 @@
                                     <a href="javascript:void(0);" class="dropdown-item rounded-1"><i class="ti ti-file-type-xls me-1"></i>Export as Excel </a>
                                 </li>
                             </ul>
-                        </div>
+                        </div> -->
                     </div>
                     <div class="mb-2">
                         <a href="#" data-bs-toggle="modal" data-bs-target="#add_department" class="btn btn-primary d-flex align-items-center"><i class="ti ti-circle-plus me-2"></i>Add Department</a>
@@ -96,12 +96,12 @@
                                 <li>
                                     <a href="javascript:void(0);" class="dropdown-item rounded-1">Recently Added</a>
                                 </li>
-                                <li>
+                                <!-- <li>
                                     <a href="javascript:void(0);" class="dropdown-item rounded-1">Ascending</a>
                                 </li>
                                 <li>
                                     <a href="javascript:void(0);" class="dropdown-item rounded-1">Desending</a>
-                                </li>
+                                </li> -->
                                 <li>
                                     <a href="javascript:void(0);" class="dropdown-item rounded-1">Last Month</a>
                                 </li>
@@ -118,22 +118,25 @@
                             <thead class="thead-light">
                                 <tr>
                                     <th class="no-sort">
-                                        <div class="form-check form-check-md">
+                                        <!-- <div class="form-check form-check-md">
                                             <input class="form-check-input" type="checkbox" id="select-all">
-                                        </div>
+                                        </div> -->
                                     </th>
-                                    <th>Department </th>
-                                    <th>No of Employees</th>
-                                    <th>Status</th>
-                                    <th></th>
+                                    <th class="no-icon">Department </th>
+                                    <th class="no-icon">Parent Name</th>
+                                    <th class="no-icon">Company Name</th>
+                                    <th class="no-icon">HOD</th>
+                                    <th class="no-icon">No of Employees</th>
+                                    <th class="no-icon">Status</th>
+                                    <th class="no-icon"></th>
                                 </tr>
                             </thead>
                             <tbody>
                                 <tr>
                                     <td>
-                                        <div class="form-check form-check-md">
+                                        <!-- <div class="form-check form-check-md">
                                             <input class="form-check-input" type="checkbox">
-                                        </div>
+                                        </div> -->
                                     </td>
                                     <td>
                                         
@@ -141,11 +144,15 @@
                                     
                                     
                                     </td>
+                                    <td>Admin</td>
+                                    <td>Astrik</td>
+                                    <td>James</td>
                                     <td>
                                         20
                                     </td>
+                                    
                                     <td>
-                                        <span class="badge badge-success d-inline-flex align-items-center badge-xs">
+                                        <span class="badge badge-success new-badge-green d-inline-flex align-items-center badge-xs">
                                             <i class="ti ti-point-filled me-1"></i>Active
                                         </span>
                                     </td>
@@ -158,9 +165,9 @@
                                 </tr>
                                 <tr>
                                     <td>
-                                        <div class="form-check form-check-md">
+                                        <!-- <div class="form-check form-check-md">
                                             <input class="form-check-input" type="checkbox">
-                                        </div>
+                                        </div> -->
                                     </td>
                                     <td>
                                         
@@ -168,11 +175,14 @@
                                         
                                     
                                     </td>
+                                    <td>Admin</td>
+                                    <td>Astrik</td>
+                                    <td>Samantha</td>
                                     <td>
                                         30
                                     </td>
                                     <td>
-                                        <span class="badge badge-success d-inline-flex align-items-center badge-xs">
+                                        <span class="badge badge-success new-badge-green d-inline-flex align-items-center badge-xs">
                                             <i class="ti ti-point-filled me-1"></i>Active
                                         </span>
                                     </td>
@@ -185,9 +195,9 @@
                                 </tr>
                                 <tr>
                                     <td>
-                                        <div class="form-check form-check-md">
+                                        <!-- <div class="form-check form-check-md">
                                             <input class="form-check-input" type="checkbox">
-                                        </div>
+                                        </div> -->
                                     </td>
                                     <td>
                                         
@@ -195,11 +205,14 @@
                                     
                                     
                                     </td>
+                                    <td>Brand</td>
+                                    <td>Software One</td>
+                                    <td>Vivien</td>
                                     <td>
                                         15
                                     </td>
                                     <td>
-                                        <span class="badge badge-success d-inline-flex align-items-center badge-xs">
+                                        <span class="badge badge-success new-badge-green d-inline-flex align-items-center badge-xs">
                                             <i class="ti ti-point-filled me-1"></i>Active
                                         </span>
                                     </td>
@@ -212,9 +225,9 @@
                                 </tr>
                                 <tr>
                                     <td>
-                                        <div class="form-check form-check-md">
+                                        <!-- <div class="form-check form-check-md">
                                             <input class="form-check-input" type="checkbox">
-                                        </div>
+                                        </div> -->
                                     </td>
                                     <td>
                                         
@@ -222,11 +235,14 @@
                                         
                                     
                                     </td>
+                                    <td></td>
+                                    <td>Software One</td>
+                                    <td>James</td>
                                     <td>
                                         20
                                     </td>
                                     <td>
-                                        <span class="badge badge-success d-inline-flex align-items-center badge-xs">
+                                        <span class="badge badge-success new-badge-green d-inline-flex align-items-center badge-xs">
                                             <i class="ti ti-point-filled me-1"></i>Active
                                         </span>
                                     </td>
@@ -239,9 +255,9 @@
                                 </tr>
                                 <tr>
                                     <td>
-                                        <div class="form-check form-check-md">
+                                        <!-- <div class="form-check form-check-md">
                                             <input class="form-check-input" type="checkbox">
-                                        </div>
+                                        </div> -->
                                     </td>
                                     <td>
                                     
@@ -249,11 +265,14 @@
                                         
                                     
                                     </td>
+                                    <td>Brand</td>
+                                    <td>Astrik</td>
+                                    <td>Samantha</td>
                                     <td>
                                         20
                                     </td>
                                     <td>
-                                        <span class="badge badge-success d-inline-flex align-items-center badge-xs">
+                                        <span class="badge badge-success new-badge-green d-inline-flex align-items-center badge-xs">
                                             <i class="ti ti-point-filled me-1"></i>Active
                                         </span>
                                     </td>
@@ -266,9 +285,9 @@
                                 </tr>
                                 <tr>
                                     <td>
-                                        <div class="form-check form-check-md">
+                                        <!-- <div class="form-check form-check-md">
                                             <input class="form-check-input" type="checkbox">
-                                        </div>
+                                        </div> -->
                                     </td>
                                     <td>
                                         
@@ -276,11 +295,14 @@
                                         
                                     
                                     </td>
+                                    <td></td>
+                                    <td>Software One</td>
+                                    <td>Vivien</td>
                                     <td>
                                         30
                                     </td>
                                     <td>
-                                        <span class="badge badge-success d-inline-flex align-items-center badge-xs">
+                                        <span class="badge badge-success new-badge-green d-inline-flex align-items-center badge-xs">
                                             <i class="ti ti-point-filled me-1"></i>Active
                                         </span>
                                     </td>
@@ -293,9 +315,9 @@
                                 </tr>
                                 <tr>
                                     <td>
-                                        <div class="form-check form-check-md">
+                                        <!-- <div class="form-check form-check-md">
                                             <input class="form-check-input" type="checkbox">
-                                        </div>
+                                        </div> -->
                                     </td>
                                     <td>
                                         
@@ -303,11 +325,14 @@
                                     
                                     
                                     </td>
+                                    <td>Brand</td>
+                                    <td>Astrik</td>
+                                    <td>James</td>
                                     <td>
                                         15
                                     </td>
                                     <td>
-                                        <span class="badge badge-success d-inline-flex align-items-center badge-xs">
+                                        <span class="badge badge-success new-badge-green d-inline-flex align-items-center badge-xs">
                                             <i class="ti ti-point-filled me-1"></i>Active
                                         </span>
                                     </td>
@@ -321,9 +346,9 @@
                                 </tr>
                                 <tr>
                                     <td>
-                                        <div class="form-check form-check-md">
+                                        <!-- <div class="form-check form-check-md">
                                             <input class="form-check-input" type="checkbox">
-                                        </div>
+                                        </div> -->
                                     </td>
                                     <td>
                                     
@@ -331,11 +356,14 @@
                                         
                                     
                                     </td>
+                                    <td></td>
+                                    <td>Software One</td>
+                                    <td>Samantha</td>
                                     <td>
                                         10
                                     </td>
                                     <td>
-                                        <span class="badge badge-danger d-inline-flex align-items-center badge-xs">
+                                        <span class="badge badge-danger new-badge-red d-inline-flex align-items-center badge-xs">
                                             <i class="ti ti-point-filled me-1"></i>Inactive
                                         </span>
                                     </td>
@@ -348,9 +376,9 @@
                                 </tr>
                                 <tr>
                                     <td>
-                                        <div class="form-check form-check-md">
+                                        <!-- <div class="form-check form-check-md">
                                             <input class="form-check-input" type="checkbox">
-                                        </div>
+                                        </div> -->
                                     </td>
                                     <td>
                                         
@@ -358,11 +386,14 @@
                                         
                                     
                                     </td>
+                                    <td></td>
+                                    <td>Astrik</td>
+                                    <td>James</td>
                                     <td>
                                         05
                                     </td>
                                     <td>
-                                        <span class="badge badge-success d-inline-flex align-items-center badge-xs">
+                                        <span class="badge badge-success new-badge-green d-inline-flex align-items-center badge-xs">
                                             <i class="ti ti-point-filled me-1"></i>Active
                                         </span>
                                     </td>
@@ -375,19 +406,22 @@
                                 </tr>
                                 <tr>
                                     <td>
-                                        <div class="form-check form-check-md">
+                                        <!-- <div class="form-check form-check-md">
                                             <input class="form-check-input" type="checkbox">
-                                        </div>
+                                        </div> -->
                                     </td>
                                     <td>											
                                         <h6 class="fw-medium"><a href="#">Business Development</a></h6>
 
                                     </td>
+                                    <td></td>
+                                    <td>Software One</td>
+                                    <td>Vivien</td>
                                     <td>
                                         07
                                     </td>
                                     <td>
-                                        <span class="badge badge-success d-inline-flex align-items-center badge-xs">
+                                        <span class="badge badge-success new-badge-green d-inline-flex align-items-center badge-xs">
                                             <i class="ti ti-point-filled me-1"></i>Active
                                         </span>
                                     </td>
