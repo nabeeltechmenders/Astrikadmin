@@ -23,12 +23,7 @@
         <?php  include 'includes/sidebar.php'; ?>
 
        <!-- Page Wrapper -->
-     
-    <!-- /Page Wrapper -->
-        <?php include 'includes/footer.php'; ?>
-    </div>
-   <!-- Page Wrapper -->
-   <div class="page-wrapper">
+       <div class="page-wrapper">
         <div class="content">
 
             <!-- Breadcrumb -->
@@ -1037,6 +1032,11 @@
 
     </div>
     <!-- /Page Wrapper -->
+    <!-- /Page Wrapper -->
+        <?php include 'includes/footer.php'; ?>
+    </div>
+   <!-- Page Wrapper -->
+  
 
     </div>
     <!-- /Main Wrapper -->
@@ -1134,12 +1134,12 @@
                                                 <input type="text" class="form-control">
                                             </div>									
                                         </div>
-                                        <div class="col-md-6">
+                                        <!-- <div class="col-md-6">
                                             <div class="mb-3">
                                                 <label class="form-label">Reviews <span class="text-danger">*</span></label>
                                                 <input type="text" class="form-control">
                                             </div>									
-                                        </div>
+                                        </div> -->
                                         <div class="col-md-6">
                                             <div class="mb-3">
                                                 <label class="form-label">Owner <span class="text-danger">*</span></label>
@@ -1151,13 +1151,13 @@
                                                 </select>
                                             </div>									
                                         </div>
-                                        <div class="col-md-6">
+                                        <!-- <div class="col-md-6">
                                             <div class="mb-3 ">
                                                 <label class="form-label">Tags <span class="text-danger">*</span> </label>
                                                 <input class="input-tags form-control" placeholder="Add new" type="text" data-role="tagsinput"  name="Label" value="Collab,Promotion,Rated">
                                             </div>
-                                        </div>
-                                        <div class="col-md-6">
+                                        </div> -->
+                                        <!-- <div class="col-md-6">
                                             <div class="mb-3">
                                                 <div class="d-flex justify-content-between align-items-center mb-2">
                                                     <label class="col-form-label p-0">Deals <span class="text-danger">*</span></label>
@@ -1170,7 +1170,7 @@
                                                     <option>Adams</option>
                                                 </select>
                                             </div>		
-                                        </div>
+                                        </div> -->
                                         <div class="col-md-6">
                                             <div class="mb-3 ">
                                                 <label class="form-label">Industry <span class="text-danger">*</span></label>
@@ -1220,7 +1220,7 @@
                                                 <textarea class="form-control"></textarea>
                                             </div>
                                         </div>
-                                        <div class="col-md-12">
+                                        <!-- <div class="col-md-12">
                                             <div class="mb-3">
                                                 <div class="d-flex justify-content-between align-items-center mb-2">
                                                     <label class="col-form-label p-0">Contact <span class="text-danger">*</span></label>
@@ -1234,7 +1234,7 @@
                                                     <option>Carol Thomas</option>
                                                 </select>
                                             </div>		
-                                        </div>
+                                        </div> -->
                                     </div>
                                 </div>
                                 <div class="modal-footer">
@@ -1481,7 +1481,7 @@
                                         <div class="col-md-12">
                                             <div class="d-flex align-items-center flex-wrap row-gap-3 bg-light w-100 rounded p-3 mb-4">                                                
                                                 <div class="d-flex align-items-center justify-content-center avatar avatar-xxl rounded-circle border border-dashed me-2 flex-shrink-0 text-dark frames">
-                                                    <img src="" alt="img" class="rounded-circle">
+                                                    <img src="assets/img/profiles/avatar-30.jpg" alt="img" class="rounded-circle">
                                                 </div>                                              
                                                 <div class="profile-upload">
                                                     <div class="mb-2">
