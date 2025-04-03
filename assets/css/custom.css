@@ -217,21 +217,52 @@ counter-reset: item;
 }
 .tab-content input::placeholder,
 .tab-content select::placeholder{
-    font-size: 10px;
+    font-size:15px;
+    padding-left:20px;
+    position: relative;
+}
+.tab-content input i{
+    position: absolute;
+    left: 2px;
+    top: 5px;
+}
+
+.input-box{
+    position: relative;
+    
+}
+.input-box i{
+    position: absolute;
+    left: 22px;
+    top: 33px;
+    font-size: 13px;
+    
+}
+.input-box select{
+    padding-left: 25px!important;
+}
+.input-box textarea{
+    padding-left: 25px;
+}
+/* .profil-tab input,
+.profil-tab select::placeholder{
+    color: #ccc;
 }
 .profil-tab .nav-tabs{
     border-bottom: 0;
     padding-bottom: 0;
-}
+} */
 .profil-tab .nav-tabs .nav-link{
-    padding:12px 10px 12px 25px!important;
+    padding: 12px 10px 12px 15px !important;
     border: 0;
-    border-radius:15px !important;
+    border-radius: 15px !important;
     text-align: left;
     color: #111;
     background-color: #c7c7c7b0;
-    width: 240px;
+    width: 210px;
     margin-right: 20px;
+    margin-bottom: 15px;
+    font-size: 13px;
 }
 .profil-tab .nav-tabs .nav-link span{
     display: block;
