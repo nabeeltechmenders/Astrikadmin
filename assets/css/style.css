@@ -22665,6 +22665,7 @@ body.layout-mode-rtl .nav-list::before {
   z-index: 9999;
 }
 .sidebar-contact .toggle-theme {
+   display: none;
   position: absolute;
   width: 35px;
   text-align: center;

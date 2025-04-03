@@ -207,12 +207,12 @@ counter-reset: item;
 .tab-content .form-label{
     position: relative;
     background-color: #fff;
-    padding: 2px 10px;
+    padding: 2px 0px;
     border: 0;
     border-radius: 2px;
     font-size: 12px;
-    bottom: -12px;
-    left: 4px;
+    /* bottom: -12px; */
+    /* left: 4px; */
     z-index: 999;
 }
 .tab-content input::placeholder,
@@ -220,19 +220,31 @@ counter-reset: item;
     font-size: 10px;
 }
 .profil-tab .nav-tabs{
-    border-bottom: 1px solid #ccc;
+    border-bottom: 0;
     padding-bottom: 0;
 }
 .profil-tab .nav-tabs .nav-link{
-    padding-bottom:10px!important;
+    padding:12px 10px 12px 25px!important;
+    border: 0;
+    border-radius:15px !important;
+    text-align: left;
+    color: #111;
+    background-color: #c7c7c7b0;
+    width: 240px;
+    margin-right: 20px;
+}
+.profil-tab .nav-tabs .nav-link span{
+    display: block;
+    font-size:13px;
+}
+.profil-tab .nav-tabs  .nav-link.active:hover{
+    color: #fff!important;
 }
 .profil-tab .nav-tabs .nav-link.active {
-    border: 0!important;
-    /* border-color: #E5E7EB; */
-    border-bottom: 1px solid #F26522!important;
-    box-shadow: none!important;
-    /* border: 0; */
-    border-radius: 0!important;
+    border: 0 !important;
+    box-shadow: none !important;
+    background-color: #f46925;
+    color: #FFF;
 }
 .avatar-upload {
     position: relative;

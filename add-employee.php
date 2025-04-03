@@ -65,58 +65,69 @@
                         </div>
                         <div class="card-body px-sm-4 px-2">
                             <div class="profil-tab">
-                            <ul class="nav nav-tabs nav-justified mb-5 " id="" role="tablist">
+                            <ul class="nav nav-tabs  mb-5 " id="" role="tablist">
                                 <li class="nav-item me-0" role="presentation">
                                     <button class="nav-link text-start active p1 py-1" id="p1-tab-1"
                                         data-bs-toggle="tab" data-bs-target="#p1-tab-pane" type="button"
-                                        role="tab" aria-controls="p1-tab-pane" aria-selected="true"><i class="fa-solid fa-user px-2"></i> Personal 
+                                        role="tab" aria-controls="p1-tab-pane" aria-selected="true">
+                                           <span>Step 1</span> 
+                                        Employee Information
                                          </button>
                                 </li>
-                                <!-- <li class="nav-item me-0" role="presentation">
+                                <li class="nav-item me-0" role="presentation">
                                     <button class="nav-link p2 py-1" id="p2-tab-2" data-bs-toggle="tab"
                                         data-bs-target="#p2-tab-pane" type="button" role="tab"
-                                        aria-controls="p2-tab-pane" aria-selected="false">Contact
+                                        aria-controls="p2-tab-pane" aria-selected="false">
+                                        <span>Step 2</span> 
+                                        Job Details
                                        </button>
-                                </li> -->
+                                </li>
                                 <li class="nav-item me-0" role="presentation">
                                     <button class="nav-link text-start p3 py-1" id="p3-tab" data-bs-toggle="tab"
                                         data-bs-target="#p3-tab-pane" type="button" role="tab"
-                                        aria-controls="p3-tab-pane" aria-selected="false"><i class="fa-solid fa-id-card-clip px-2"></i> Employment 
+                                        aria-controls="p3-tab-pane" aria-selected="false">
+                                        <span>Step 3</span> 
+                                        Compensation & Benefits
                                         </button>
                                 </li>
-                                <!-- <li class="nav-item me-0" role="presentation">
+                                <li class="nav-item me-0" role="presentation">
                                     <button class="nav-link p4 py-1" id="p4-tab" data-bs-toggle="tab"
                                         data-bs-target="#p4-tab-pane" type="button" role="tab"
-                                        aria-controls="p4-tab-pane" aria-selected="false">System
-                                        Credentials</button>
-                                </li> -->
+                                        aria-controls="p4-tab-pane" aria-selected="false">
+                                        <span>Step 4</span> 
+                                        System Access & Permissions</button>
+                                </li>
 
                                 <li class="nav-item me-0" role="presentation">
                                     <button class="nav-link text-start p5 py-1" id="p5-tab" data-bs-toggle="tab"
                                         data-bs-target="#p5-tab-pane" type="button" role="tab"
-                                        aria-controls="p5-tab-pane" aria-selected="false"><i class="fa-solid fa-building-columns px-2"></i>Financial 
+                                        aria-controls="p5-tab-pane" aria-selected="false"> 
+                                        <span>Step 5</span> 
+                                        Documents & Attachments
                                     </button>
                                 </li>
 
                                 <li class="nav-item me-0" role="presentation">
                                     <button class="nav-link text-start p6 py-1" id="p6-tab" data-bs-toggle="tab"
                                         data-bs-target="#p6-tab-pane" type="button" role="tab"
-                                        aria-controls="p6-tab-pane" aria-selected="false"> <i class="fa-solid fa-briefcase px-2"></i>Work Experience
+                                        aria-controls="p6-tab-pane" aria-selected="false">
+                                        <span>Step 6</span> 
+                                        Notes & Additional Information
                                         </button>
                                 </li>
 
-                                <li class="nav-item me-0" role="presentation">
+                                <!-- <li class="nav-item me-0" role="presentation">
                                     <button class="nav-link text-start p7 py-1" id="p7-tab" data-bs-toggle="tab"
                                         data-bs-target="#p7-tab-pane" type="button" role="tab"
-                                        aria-controls="p7-tab-pane" aria-selected="false"><i class="fa-solid fa-people-group px-2"></i> Family Information</button>
+                                        aria-controls="p7-tab-pane" aria-selected="false"> Documents & Attachments</button>
                                 </li>
 
                                 <li class="nav-item me-0" role="presentation">
                                     <button class="nav-link text-start p8 py-1" id="p8-tab" data-bs-toggle="tab"
                                         data-bs-target="#p8-tab-pane" type="button" role="tab"
-                                        aria-controls="p8-tab-pane" aria-selected="false"><i class="fa-solid fa-graduation-cap px-2"></i> Education 
+                                        aria-controls="p8-tab-pane" aria-selected="false">Notes & Additional Information
                                     </button>
-                                </li>
+                                </li> -->
 
                             
 
@@ -130,7 +141,7 @@
                                 <div class="tab-pane fade show active text-muted" id="p1-tab-pane" role="tabpanel"
                                     aria-labelledby="personal-tab-1" tabindex="0">
 
-                                    <div class="row">
+                                    <!-- <div class="row">
                                         <span class="fs-14 fw-bold text-dark mb-2">Personal Info</span>
                                         <div class="col-lg-3 mb-4">
                                               <div class="avatar-upload">
@@ -145,121 +156,74 @@
                                         </div>
                                           
                                         </div>
-                                    </div>
+                                    </div> -->
 
                                     <div class="row py-2">
                                         <div class="col-lg-4 mb-3">
-                                            <label class="form-label mb-0">First Name</label>
-                                            <input type="text" class="form-control" placeholder="First Name">
+                                            <label class="form-label mb-0">Full Name </label>
+                                            <input type="text" class="form-control" placeholder="Full Name ">
                                         </div>
                                         <div class="col-lg-4 mb-3">
-                                            <label class="form-label mb-0">Middle Name</label>
-                                            <input type="text" class="form-control" placeholder="Middle Name">
+                                            <label class="form-label mb-0">Employee ID </label>
+                                            <input type="text" class="form-control" placeholder="Employee ID ">
                                         </div>
+                                       
                                         <div class="col-lg-4 mb-3">
-                                            <label class="form-label mb-0">Last Name</label>
-                                            <input type="text" class="form-control" placeholder="Last Name">
-                                        </div>
-                                        <!-- <div class="col-lg-4 mb-3">
                                             <label class="form-label mb-0">Photo Selection</label>
                                             <input type="file" class="form-control" placeholder="Photo Upload">
-                                        </div> -->
-                                        <div class="col-lg-4 mb-3">
-                                            <label class="form-label mb-0">CNIC</label>
-                                            <input type="number" class="form-control" placeholder="CNIC Number">
                                         </div>
                                         <div class="col-lg-4 mb-3">
-                                            <label class="form-label mb-0">Date of Birth</label>
-                                            <input type="date" class="form-control" placeholder="Select Date">
+                                            <label class="form-label mb-0">Date of Birth </label>
+                                            <input type="date" class="form-control" placeholder="Date of Birth ">
                                         </div>
                                         <div class="col-lg-4 mb-3">
-                                            <label class="form-label mb-0">Gender</label>
-                                               <div class="gender-container">
-                                                    <label id="male" class="gender-option" onclick="selectGender('male')">
-                                                        <input type="radio" name="gender" value="male">
-                                                        <i class="fa-solid fa-person"></i> 
-                                                    </label>
-
-                                                    <label id="female" class="gender-option" onclick="selectGender('female')">
-                                                        <input type="radio" name="gender" value="female">
-                                                        <i class="fa-solid fa-person-dress"></i>
-                                                    </label>
-
-                                                   
-                                                </div>
-                                            <!-- <select class="select">
-                                                <option selected>Select</option>
+                                            <label class="form-label mb-0">Gender  </label>
+                                            <select class="select">
+                                                <option selected>Select Gender</option>
                                                 <option>Male</option>
                                                 <option>Female</option>
-                                            </select> -->
+                                                <option>Other</option>
+
+                                            </select>
                                         </div>
                                         <div class="col-lg-4 mb-3">
-                                            <label class="form-label mb-0">Nationality</label>
-                                            <input type="text" class="form-control" placeholder="Nationality ">
-                                        </div>
-                                        <div class="col-lg-4 mb-3">
-                                            <label class="form-label mb-0">Religion</label>
-                                            <input type="text" class="form-control" placeholder="Religion ">
-                                        </div>
-                                        <div class="col-lg-4 mb-3">
-                                            <label class="form-label mb-0">Marital Status</label>
+                                            <label class="form-label mb-0">Nationality </label>
                                             <select class="select">
-                                                <option selected>Select</option>
+                                                <option selected>Nationality</option>
+                                                <option>Country 1</option>
+                                                <option>Country 2</option>
+                                                <option>Country 3</option>
+                                            </select>
+                                        </div>
+                                          <div class="col-lg-4 mb-3">
+                                            <label class="form-label mb-0">Marital Status  </label>
+                                            <select class="select">
+                                                <option selected>Marital Status </option>
                                                 <option>Single</option>
-                                                <option>Engaged</option>
                                                 <option>Married</option>
+                                                <option>Divorced</option>
                                                 <option>Widowed</option>
-                                                <option>Seperated</option>
                                             </select>
                                         </div>
                                         <div class="col-lg-4 mb-3">
-                                            <label class="form-label mb-0">Employment of Spouse</label>
-                                            <select class="select">
-                                                <option selected>Select</option>
-                                                <option>Yes</option>
-                                                <option>No</option>
-                                            </select>
+                                            <label class="form-label mb-0">CNIC/Passport Number </label>
+                                            <input type="number" class="form-control" placeholder="NIC/Passport Number ">
+                                        </div>
+                                  
+                                        <div class="col-lg-4 mb-3">
+                                            <label class="form-label mb-0">Phone Number </label>
+                                            <input type="number" class="form-control" placeholder="Phone Number ">
                                         </div>
                                         <div class="col-lg-4 mb-3">
-                                            <label class="form-label mb-0">No. of Children</label>
-                                            <input type="text" class="form-control" placeholder="Number ">
+                                            <label class="form-label mb-0">Email </label>
+                                            <input type="email" class="form-control" placeholder="Email ">
                                         </div>
-                                   
-                                        
-                                        <div class="col-lg-4 mb-3">
-                                            <label class="form-label mb-0">Personal Email Address</label>
-                                            <input type="email" class="form-control"
-                                                placeholder="Personal Email Address">
+                                     
+                                        <div class="col-lg-8 mb-3">
+                                            <label class="form-label mb-0 d-block">Residential Address </label>
+                                            <textarea placeholder="Residential Address" class="form-control h-100 w-100"></textarea>
                                         </div>
-
-                                        <div class="col-lg-4 mb-3">
-                                            <label class="form-label mb-0">Official Email Address</label>
-                                            <input type="email" class="form-control"
-                                                placeholder="Official Email Address">
-                                        </div>
-
-                                        <div class="col-lg-4 mb-3">
-                                            <label class="form-label mb-0">Phone No</label>
-                                            <input type="number" class="form-control" placeholder="Phone No">
-                                        </div>
-                                        <div class="col-lg-4 mb-3">
-                                            <label class="form-label mb-0">Mobile No</label>
-                                            <input type="number" class="form-control" placeholder="Mobile No">
-                                        </div>
-                                        <div class="col-lg-4 mb-3">
-                                            <label class="form-label mb-0">Address</label>
-                                            <input type="text" class="form-control" placeholder="Enter Address">
-                                        </div>
-                                        <div class="col-lg-4 mb-3">
-                                            <label class="form-label mb-0">Emergency Contact Number 1</label>
-                                            <input type="number" class="form-control"
-                                                placeholder="Emergency Contact Number 1">
-                                        </div>
-                                        <div class="col-lg-4 mb-3">
-                                            <label class="form-label mb-0">Emergency Contact Number 2</label>
-                                            <input type="number" class="form-control"
-                                                placeholder="Emergency Contact Number 2">
-                                        </div>
+                                      
                                     </div>
 
                                     <div class="row justify-content-end mt-3">
@@ -274,42 +238,84 @@
                                 <div class="tab-pane fade text-muted" id="p2-tab-pane" role="tabpanel"
                                     aria-labelledby="contact-tab-2" tabindex="0">
 
-                                    <!-- <div class="row py-2">
+                                    <div class="row py-2">
                                         <div class="col-lg-4 mb-3">
-                                            <label class="form-label mb-0">Personal Email Address</label>
-                                            <input type="email" class="form-control"
-                                                placeholder="Personal Email Address">
+                                            <label class="form-label mb-0">Department </label>
+                                            <select class="select">
+                                                <option selected>Department</option>
+                                                <option>1</option>
+                                                <option>2</option>
+                                                <option>3</option>
+                                                <option>4</option>
+                                            </select>
                                         </div>
 
                                         <div class="col-lg-4 mb-3">
-                                            <label class="form-label mb-0">Official Email Address</label>
-                                            <input type="email" class="form-control"
-                                                placeholder="Official Email Address">
+                                            <label class="form-label mb-0">Designation/Job Title </label>
+                                            <select class="select">
+                                                <option selected>Department</option>
+                                                <option>1</option>
+                                                <option>2</option>
+                                                <option>3</option>
+                                                <option>4</option>
+                                            </select>
                                         </div>
 
                                         <div class="col-lg-4 mb-3">
-                                            <label class="form-label mb-0">Phone No</label>
-                                            <input type="number" class="form-control" placeholder="Phone No">
+                                        <label class="form-label mb-0">Employee Type </label>
+                                            <select class="select">
+                                                <option selected>Employee Type</option>
+                                                <option>Full-Time</option>
+                                                <option>Part-Time</option>
+                                                <option>Contract</option>
+                                                <option>Intern</option>
+                                            </select>
                                         </div>
                                         <div class="col-lg-4 mb-3">
-                                            <label class="form-label mb-0">Mobile No</label>
-                                            <input type="number" class="form-control" placeholder="Mobile No">
+                                        <label class="form-label mb-0">Reporting Manager </label>
+                                            <select class="select">
+                                                <option selected>Employee Type</option>
+                                                <option>1</option>
+                                                <option>2</option>
+                                                <option>3</option>
+                                                <option>4</option>
+                                            </select>
                                         </div>
                                         <div class="col-lg-4 mb-3">
-                                            <label class="form-label mb-0">Address</label>
-                                            <input type="text" class="form-control" placeholder="Enter Address">
+                                            <label class="form-label mb-0">Joining Date</label>
+                                            <input type="date" class="form-control" placeholder="Joining Date">
                                         </div>
                                         <div class="col-lg-4 mb-3">
-                                            <label class="form-label mb-0">Emergency Contact Number 1</label>
-                                            <input type="number" class="form-control"
-                                                placeholder="Emergency Contact Number 1">
+                                            <label class="form-label mb-0">•	Shift Timing  </label>
+                                            <select class="select">
+                                                <option selected>Shift Timing </option>
+                                                <option>Morning</option>
+                                                <option>Evening</option>
+                                                <option>Night</option>
+                                                <option>Custom</option>
+                                            </select>
                                         </div>
                                         <div class="col-lg-4 mb-3">
-                                            <label class="form-label mb-0">Emergency Contact Number 2</label>
-                                            <input type="number" class="form-control"
-                                                placeholder="Emergency Contact Number 2">
+                                            <label class="form-label mb-0">Probation Period </label>
+                                            <select class="select">
+                                                <option selected>Employee Type</option>
+                                                <option>1 Month</option>
+                                                <option>3 Month</option>
+                                                <option>6 Month</option>
+                                                <option>etc</option>
+                                            </select>
                                         </div>
-                                    </div> -->
+                                        <div class="col-lg-4 mb-3">
+                                            <label class="form-label mb-0">Employment Status  </label>
+                                            <select class="select">
+                                                <option selected>status</option>
+                                                <option>Active</option>
+                                                <option>On Leave</option>
+                                                <option>Terminated</option>
+                                                <option>etc</option>
+                                            </select>
+                                        </div>
+                                    </div>
 
                                 </div>
                                 <!--TAB Two End-->
@@ -320,79 +326,55 @@
 
                                     <div class="row py-2">
                                         <div class="col-lg-4 mb-3">
-                                            <label class="form-label mb-0">Employment Type</label>
+                                            <label class="form-label mb-0">Salary (Basic Pay) </label>
+                                            <input type="number" class="form-control" placeholder="Salary (Basic Pay)">
+                                        </div>
+                                        <div class="col-lg-4 mb-3">
+                                            <label class="form-label mb-0">Allowances (HRA, TA, etc.) </label>
+                                            <input type="text" class="form-control" placeholder="HRA, TA, etc">
+                                        </div>
+                                        <div class="col-lg-4 mb-3">
+                                            <label class="form-label mb-0">Bank Name </label>
+                                            <input type="text" class="form-control" placeholder="Bank Name ">
+                                        </div>
+                                        <div class="col-lg-4 mb-3">
+                                            <label class="form-label mb-0">Bank Account Number </label>
+                                            <input type="text" class="form-control" placeholder="Bank Account Number ">
+                                        </div>
+                                        <div class="col-lg-4 mb-3">
+                                            <label class="form-label mb-0">Tax Information </label>
+                                            <input type="text" class="form-control" placeholder="Tax Information ">
+                                        </div>
+                                        <div class="col-lg-4 mb-3">
+                                            <label class="form-label mb-0">Payroll Type </label>
                                             <select class="select">
-                                                <option selected>Select</option>
-                                                <option>Probation</option>
-                                                <option>Permanent</option>
-                                                <option>Resigned</option>
-                                                <option>Notice</option>
-                                                <option>Terminated</option>
+                                                <option selected>status</option>
+                                                <option>Monthly</option>
+                                                <option>Bi-weekly</option>
+                                                <option>Weekly</option>
+                                                
                                             </select>
                                         </div>
                                         <div class="col-lg-4 mb-3">
-                                            <label class="form-label mb-0">Joining Date</label>
-                                            <input type="date" class="form-control" placeholder="Select Date">
+                                            <label class="form-label mb-0 d-block">Health Insurance </label>
+                                         <div class="form-check form-check-inline">
+                                            <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
+                                            <label class="form-check-label" for="flexRadioDefault1">
+                                               Yes 
+                                            </label>
+                                            </div>
+                                            <div class="form-check form-check-inline">
+                                            <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault2" checked>
+                                            <label class="form-check-label" for="flexRadioDefault2">
+                                              No
+                                            </label>
+                                            </div>
                                         </div>
-                                        <div class="col-lg-4 mb-3">
-                                            <label class="form-label mb-0">Department</label>
-                                            <select class="select">
-                                                <option selected>Select</option>
-                                                <option>Brand </option>
-                                                <option>Software</option>
-                                                <option>Sales</option>
-                                            </select>
+                                        <div class="col-lg-8 mb-3">
+                                            <label class="form-label mb-0">Other Benefits </label>
+                                            <textarea class="form-control h-100" placeholder="Other Benefits "></textarea>
                                         </div>
-                                        <div class="col-lg-4 mb-3">
-                                            <label class="form-label mb-0">Designation</label>
-                                            <input type="text" class="form-control" placeholder="">
-                                        </div>
-                                        <div class="col-lg-4 mb-3">
-                                            <label class="form-label mb-0">Shift</label>
-                                            <select class="select">
-                                                <option selected>Select</option>
-                                                <option>10:00 AM - 7 PM </option>
-                                                <option>09:00 PM - 6 AM</option>
-
-                                            </select>
-                                        </div>
-                                        <div class="col-lg-4 mb-3">
-                                            <label class="form-label mb-0">Reporting Authority</label>
-                                            <select class="select">
-                                                <option selected>Select</option>
-                                                <option>Anum </option>
-                                                <option>Syed Fawad Hussain</option>
-                                                <option>Amash</option>
-                                            </select>
-                                        </div>
-                                        <div class="col-lg-4 mb-3">
-                                            <label class="form-label mb-0">Team</label>
-                                            <select class="select">
-                                                <option selected>Select</option>
-                                                <option>Brand </option>
-                                                <option>Designer</option>
-                                                <option>Developers</option>
-                                            </select>
-                                        </div>
-                                        <div class="col-lg-4 mb-3">
-                                        <label class="form-label mb-0">User Login ID</label>
-                                        <input type="text" class="form-control" placeholder="User Login ID">
-                                    </div>
-
-                                    <div class="col-lg-4 mb-3">
-                                        <label class="form-label mb-0">User Login Password</label>
-                                        <input type="text" class="form-control" placeholder="User Login Password">
-                                    </div>
-                                    <div class="col-lg-4 mb-3">
-                                        <label class="form-label mb-0">Machine ID</label>
-                                        <input type="text" class="form-control" placeholder="Machine ID">
-                                    </div>
-                                    </div>
                                     
-                                    <div class="row justify-content-end mt-3">
-                                        <div class="col-lg-2 text-end">
-                                            <button type="button" class="btn btn-primary">Next</button>
-                                        </div>
                                     </div>
                                 </div>
                                 <!--TAB End Start-->
@@ -400,22 +382,51 @@
                                 <!--TAB Four Start-->
                                 <div class="tab-pane fade text-muted" id="p4-tab-pane" role="tabpanel"
                                     aria-labelledby="system-tab" tabindex="0">
-                                    <!-- <div class="row py-2">
+                                    <div class="row py-2">
 
                                         <div class="col-lg-4 mb-3">
-                                            <label class="form-label mb-0">User Login ID</label>
-                                            <input type="text" class="form-control" placeholder="User Login ID">
+                                            <label class="form-label mb-0">Work Email </label>
+                                            <input type="email" class="form-control" placeholder="Auto-generated or Manual Entry">
                                         </div>
 
                                         <div class="col-lg-4 mb-3">
-                                            <label class="form-label mb-0">User Login Password</label>
-                                            <input type="text" class="form-control" placeholder="User Login Password">
+                                            <label class="form-label mb-0">Role in System </label>
+                                            <select class="select">
+                                                <option selected>Select</option>
+                                                <option>Employee</option>
+                                                <option>Manager</option>
+                                                <option>HR</option>
+                                                <option>Admin</option>
+                                            </select>
                                         </div>
                                         <div class="col-lg-4 mb-3">
-                                            <label class="form-label mb-0">Machine ID</label>
-                                            <input type="text" class="form-control" placeholder="Machine ID">
+                                            <label class="form-label mb-0">Assign HRMS Access? </label>
+                                            <div class="form-check form-switch mt-2">
+                                            <input class="form-check-input" type="checkbox" role="switch" id="flexSwitchCheckChecked" checked>
+                                            <label class="form-check-label" for="flexSwitchCheckChecked"></label>
+                                            </div>
                                         </div>
-                                    </div> -->
+
+                                        <div class="col-lg-4 mb-3">
+                                            <label class="form-label mb-0">Assign System Modules  </label>
+                                            <select class="select">
+                                                <option selected>Select</option>
+                                                <option>Payroll</option>
+                                                <option>Attendance</option>
+                                                <option>Leave</option>
+                                                <option>Performance</option>
+                                                <option>etc</option>
+                                            </select>
+                                        </div>
+                                        <div class="col-lg-4 mb-3">
+                                            <label class="form-label mb-0">HRMS username  </label>
+                                            <input type="text" class="form-control" placeholder="username ">
+                                        </div>
+                                        <div class="col-lg-4 mb-3">
+                                            <label class="form-label mb-0">HRMS Password </label>
+                                            <input type="text" class="form-control" placeholder="Password">
+                                        </div>
+                                    </div>
                                 </div>
                                 <!--TAB Four End-->
 
@@ -425,27 +436,28 @@
                                     <div class="row py-2">
 
                                         <div class="col-lg-4 mb-3">
-                                            <label class="form-label mb-0">Bank Name</label>
-                                            <input type="text" class="form-control" placeholder="Bank Name">
+                                            <label class="form-label mb-0">Resume/CV </label>
+                                            <input type="file" class="form-control" placeholder="Pdf,jpg & png">
                                         </div>
                                         <div class="col-lg-4 mb-3">
-                                            <label class="form-label mb-0">Bank Account no</label>
-                                            <input type="number" class="form-control" placeholder="Bank Account no">
+                                            <label class="form-label mb-0">Offer Letter </label>
+                                            <input type="file" class="form-control" placeholder="Pdf,word,document">
                                         </div>
                                         <div class="col-lg-4 mb-3">
-                                            <label class="form-label mb-0">CNIC</label>
-                                            <input type="number" class="form-control" placeholder="CNIC">
+                                            <label class="form-label mb-0">Contract Agreement </label>
+                                            <input type="file" class="form-control" placeholder="Pdf,word,document">
                                         </div>
                                         <div class="col-lg-4 mb-3">
-                                            <label class="form-label mb-0">Branch</label>
-                                            <input type="text" class="form-control" placeholder="Branch">
+                                            <label class="form-label mb-0">Educational Certificates </label>
+                                            <input type="file" class="form-control" placeholder="Pdf,word,document">
                                         </div>
+                                        <div class="col-lg-4 mb-3">
+                                            <label class="form-label mb-0">Other Relevant Documents </label>
+                                            <input type="file" class="form-control" placeholder="Other Relevant Documents ">
+                                        </div>
+                                      
                                     </div>
-                                    <div class="row justify-content-end mt-3">
-                                        <div class="col-lg-2 text-end">
-                                            <button type="button" class="btn btn-primary">Next</button>
-                                        </div>
-                                    </div>
+                                   
                                 </div>
                                 <!--TAB Five End-->
                                 <!--TAB Six Start-->
@@ -453,107 +465,20 @@
                                     aria-labelledby="experience-tab" tabindex="0">
                                     <div class="row py-2">
 
-                                    <div class="col-lg-4 mb-3">
-                                        <label class="form-label mb-0">Company Name</label>
-                                        <input type="text" class="form-control" placeholder="Company Name">
+                                    <div class="col-lg-12 mb-3">
+                                        <label class="form-label mb-0">Additional Comments </label>
+                                        <textarea  class="form-control h-100" placeholder="Additional Comments "></textarea>
                                     </div>
-                                    <div class="col-lg-4 mb-3">
-                                        <label class="form-label mb-0">Designation</label>
-                                        <input type="text" class="form-control" placeholder="Designation">
+                                    <div class="col-lg-12 mb-3 mt-3">
+                                        <label class="form-label mb-0">Employee Notes/Remarks </label>
+                                        <textarea  class="form-control h-100" placeholder="Employee Notes/Remarks "></textarea>
                                     </div>
-                                    <div class="col-lg-4 mb-3">
-                                        <label class="form-label mb-0">Start Date</label>
-                                        <input type="date" class="form-control" placeholder="Start Date">
+                                    
                                     </div>
-                                    <div class="col-lg-4 mb-3">
-                                        <label class="form-label mb-0">End Date</label>
-                                        <input type="date" class="form-control" placeholder="End Date">
-                                    </div>
-                                    </div>
-                                    <div class="row text-end justify-content-end mt-3">
-                                            <div class="col-lg-2">
-                                    <button type="button" class="btn btn-primary me-2"><i class="ti ti-circle-plus me-2"></i> Add More</button>
-                                    </div>
-                                    </div>
-                                    <div class="row justify-content-end mt-3">
-                                        <div class="col-lg-2 text-end">
-                                            <button type="button" class="btn btn-primary">Next</button>
-                                        </div>
-                                    </div>
+                               
                                 </div>
                                 <!--TAB Six End-->
-                                <!--TAB Seven Start-->
-                                <div class="tab-pane fade text-muted" id="p7-tab-pane" role="tabpanel"
-                                    aria-labelledby="family-tab" tabindex="0">
-                                    <div class="row py-2">
-
-                                <div class="col-lg-4 mb-3">
-                                    <label class="form-label mb-0">Name</label>
-                                    <input type="text" class="form-control" placeholder="Name">
-                                </div>
-                                <div class="col-lg-4 mb-3">
-                                    <label class="form-label mb-0">Relationship</label>
-                                    <input type="text" class="form-control" placeholder="Relationship">
-                                </div>
-                                <div class="col-lg-4 mb-3">
-                                    <label class="form-label mb-0">Phone</label>
-                                    <input type="tel" class="form-control" placeholder="Phone">
-                                </div>
-                                <div class="col-lg-4 mb-3">
-                                    <label class="form-label mb-0">CNIC</label>
-                                    <input type="number" class="form-control" placeholder="CNIC">
-                                </div>
-                                <div class="col-lg-4 mb-3">
-                                    <label class="form-label mb-0">Date of Birth</label>
-                                    <input type="date" class="form-control" placeholder="Date of Birth">
-                                </div>
-                                </div>
-                                <div class="row text-end justify-content-end mt-3">
-                                            <div class="col-lg-2">
-                                    <button type="button" class="btn btn-primary me-2"><i class="ti ti-circle-plus me-2"></i> Add More</button>
-                                    </div>
-                                    </div>
-                                    <div class="row justify-content-end mt-3">
-                                        <div class="col-lg-2 text-end">
-                                            <button type="button" class="btn btn-primary">Next</button>
-                                        </div>
-                                    </div>
-                                </div>
-                                 <!--TAB Seven End-->
-                                <!--TAB Eight Start-->
-                                <div class="tab-pane fade text-muted" id="p8-tab-pane" role="tabpanel"
-                                    aria-labelledby="education-tab" tabindex="0">
-                                    <div class="row py-2">
-
-                                        <div class="col-lg-4 mb-3">
-                                            <label class="form-label mb-0">Institution Name</label>
-                                            <input type="text" class="form-control" placeholder="Institution Name">
-                                        </div>
-                                        <div class="col-lg-4 mb-3">
-                                            <label class="form-label mb-0">Degree</label>
-                                            <input type="text" class="form-control" placeholder="Degree">
-                                        </div>
-                                         <div class="col-lg-4 mb-3">
-                                            <label class="form-label mb-0">Start Date</label>
-                                            <input type="date" class="form-control" placeholder="Start Date">
-                                        </div>
-                                        <div class="col-lg-4 mb-3">
-                                            <label class="form-label mb-0">End Date</label>
-                                            <input type="date" class="form-control" placeholder="End Date">
-                                        </div>
-                                        </div>
-                                        <div class="row text-end justify-content-end mt-3">
-                                            <div class="col-lg-2">
-                                    <button type="button" class="btn btn-primary me-2"><i class="ti ti-circle-plus me-2"></i> Add More</button>
-                                    </div>
-                                    </div>
-                                    <div class="row justify-content-end mt-3">
-                                        <div class="col-lg-2 text-end">
-                                            <button type="button" class="btn btn-primary">Finish</button>
-                                        </div>
-                                    </div>
-                                </div>
-                                 <!--TAB Eight End-->
+                              
                             </div>
                         </div>
                     </div>
