@@ -8,7 +8,7 @@
     <meta name="keywords" content="">
     <meta name="author" content="">
     <meta name="robots" content="">
-    <title>Astrik Manager | Add Employee</title>
+    <title>Admin Area | Add Employee</title>
 
     <?php include 'includes/style.php'; ?>
     Performance
@@ -23,12 +23,7 @@
         <?php  include 'includes/sidebar.php'; ?>
 
        <!-- Page Wrapper -->
-    
-    <!-- /Page Wrapper -->
-        <?php include 'includes/footer.php'; ?>
-    </div>
-   <!-- Page Wrapper -->
-   <div class="page-wrapper">
+       <div class="page-wrapper">
         <div class="content">
 
             <!-- Breadcrumb -->
@@ -49,7 +44,7 @@
                 </div>
                 <div class="d-flex my-xl-auto right-content align-items-center flex-wrap ">
                     <div class="me-2 mb-2">
-                        <div class="dropdown">
+                        <!-- <div class="dropdown">
                             <a href="javascript:void(0);" class="dropdown-toggle btn btn-white d-inline-flex align-items-center" data-bs-toggle="dropdown">
                                 <i class="ti ti-file-export me-1"></i>Export
                             </a>
@@ -61,7 +56,7 @@
                                     <a href="javascript:void(0);" class="dropdown-item rounded-1"><i class="ti ti-file-type-xls me-1"></i>Export as Excel </a>
                                 </li>
                             </ul>
-                        </div>
+                        </div> -->
                     </div>
                     <div class="mb-2">
                         <a href="#" data-bs-toggle="modal" data-bs-target="#add_policy" class="btn btn-primary d-flex align-items-center"><i class="ti ti-circle-plus me-2"></i>Add Policy</a>
@@ -94,13 +89,13 @@
                             </a>
                             <ul class="dropdown-menu  dropdown-menu-end p-3">
                                 <li>
-                                    <a href="javascript:void(0);" class="dropdown-item rounded-1">Designing</a>
+                                    <a href="javascript:void(0);" class="dropdown-item rounded-1">Finance</a>
                                 </li>
                                 <li>
-                                    <a href="javascript:void(0);" class="dropdown-item rounded-1">Developer</a>
+                                    <a href="javascript:void(0);" class="dropdown-item rounded-1">Marketing </a>
                                 </li>
                                 <li>
-                                    <a href="javascript:void(0);" class="dropdown-item rounded-1">DevOps</a>
+                                    <a href="javascript:void(0);" class="dropdown-item rounded-1">UI / UX</a>
                                 </li>
                             </ul>
                         </div>
@@ -134,23 +129,23 @@
                             <thead class="thead-light">
                                 <tr>
                                     <th class="no-sort">
-                                        <div class="form-check form-check-md">
+                                        <!-- <div class="form-check form-check-md">
                                             <input class="form-check-input" type="checkbox" id="select-all">
-                                        </div>
+                                        </div> -->
                                     </th>
-                                    <th>Name</th>
-                                    <th>Department</th>
-                                    <th>Description</th>
-                                    <th>Created Date</th>
-                                    <th></th>
+                                    <th class="no-icon">Name</th>
+                                    <th class="no-icon">Department</th>
+                                    <th class="no-icon">Description</th>
+                                    <th class="no-icon">Created Date</th>
+                                    <th class="no-icon"></th>
                                 </tr>
                             </thead>
                             <tbody>
                                 <tr>
                                     <td>
-                                        <div class="form-check form-check-md">
+                                        <!-- <div class="form-check form-check-md">
                                             <input class="form-check-input" type="checkbox">
-                                        </div>
+                                        </div> -->
                                     </td>
                                     <td>
                                         <h6 class="fs-14 fw-medium text-gray-9">Employee</h6>
@@ -171,9 +166,9 @@
                                 </tr>
                                 <tr>
                                     <td>
-                                        <div class="form-check form-check-md">
+                                        <!-- <div class="form-check form-check-md">
                                             <input class="form-check-input" type="checkbox">
-                                        </div>
+                                        </div> -->
                                     </td>
                                     <td>
                                         <h6 class="fs-14 fw-medium text-gray-9">Permission Policy</h6>
@@ -194,9 +189,9 @@
                                 </tr>
                                 <tr>
                                     <td>
-                                        <div class="form-check form-check-md">
+                                        <!-- <div class="form-check form-check-md">
                                             <input class="form-check-input" type="checkbox">
-                                        </div>
+                                        </div> -->
                                     </td>
                                     <td>
                                         <h6 class="fs-14 fw-medium text-gray-9">Privacy Policy</h6>
@@ -228,6 +223,11 @@
 
     </div>
     <!-- /Page Wrapper -->
+        <?php include 'includes/footer.php'; ?>
+    </div>
+   <!-- Page Wrapper -->
+  
+    <!-- /Page Wrapper -->
  <!-- Add Policy -->
     <div class="modal fade" id="add_policy">
         <div class="modal-dialog modal-dialog-centered modal-md">
@@ -249,7 +249,7 @@
                             </div>
                             <div class="col-md-12">
                                 <div class="mb-3">
-                                    <label class="form-label">Appraisal Date</label>
+                                    <label class="form-label">Description</label>
                                     <textarea class="form-control"></textarea>
                                 </div>
                             </div>
@@ -261,7 +261,7 @@
                                         <option>All Department</option>
                                         <option>Finance</option>
                                         <option>Marketing</option>
-                                        <option>Development</option>
+                                        <option>UI / UX </option>
                                     </select>
                                 </div>
                             </div>
@@ -314,7 +314,7 @@
                             </div>
                             <div class="col-md-12">
                                 <div class="mb-3">
-                                    <label class="form-label">Appraisal Date</label>
+                                    <label class="form-label">Description</label>
                                     <textarea class="form-control">Guidelines regarding employee absences from work</textarea>
                                 </div>
                             </div>
@@ -325,7 +325,7 @@
                                         <option selected>All Department</option>
                                         <option>Finance</option>
                                         <option>Marketing</option>
-                                        <option>Development</option>
+                                        <option>UI / UX </option>
                                     </select>
                                 </div>
                             </div>
@@ -335,7 +335,7 @@
                                     <label class="form-label">Upload Policy</label>
                                     <div class="policy-upload d-flex flex-column align-items-center">
                                         <div class="policy-upload-bg mb-2 rounded-circle d-flex align-items-center justify-content-center bg-primary-transparent">
-                                            <span><img src="" alt="Img" class="img-fluid"></span>
+                                            <span><img src="assets/img/icons/drop.svg" alt="Img" class="img-fluid"></span>
                                         </div>
                                         <h6 class="fs-12 fw-normal mb-2">Drag and drop your files</h6>
                                         <div class="drag-upload-btn bg-primary mb-0">

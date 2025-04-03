@@ -2061,6 +2061,14 @@ button:focus {
   letter-spacing: 0.5px;
   border-radius: 4px;
 }
+.new-badge-green{
+  color:green !important;
+  background-color: transparent !important;
+}
+.new-badge-red{
+  color:red !important;
+  background-color: transparent !important;
+}
 .badge.badge-xs {
   font-size: 10px;
   font-weight: 500;
@@ -23656,7 +23664,12 @@ table.dataTable > thead .sorting_desc_disabled:after {
   font-weight: 600;
   line-height: 1px !important;
 }
-
+table.dataTable > thead .no-icon:after{
+  display:none !important;
+}
+table.dataTable > thead .no-icon:before{
+  display:none !important;
+}
 table.dataTable > thead .sorting:before,
 table.dataTable > thead .sorting_asc:before,
 table.dataTable > thead .sorting_desc:before,

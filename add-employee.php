@@ -8,7 +8,7 @@
     <meta name="keywords" content="">
     <meta name="author" content="">
     <meta name="robots" content="">
-    <title>Astrik Manager | Add Employee</title>
+    <title>Admin Area | Add Employee</title>
 
     <?php include 'includes/style.php'; ?>
     Performance

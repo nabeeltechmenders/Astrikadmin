@@ -82,10 +82,10 @@
                 <ul>
                     <!-- <li><a href="index.php"><i class="ti ti-external-link"></i><span>Dashboard</span></a></li> -->
                     <li><a href="add-employee.php"><i class="ti ti-users-group"></i><span>Add Employee</span></a></li>
-                    <!-- <li><a href="team-attendance.php"><i class="ti ti-user"></i><span>Team Attendance</span></a></li>
-                    <li><a href="team-breaks.php"><i class="ti ti-clock"></i><span>Team Breaks</span></a></li>
-                    <li><a href="shift-management.php"><i class="ti ti-user"></i><span>Shift Management</span></a></li>
-                    <li><a href="team-leaves.php"><i class="ti ti-beach"></i><span>Team Leaves</span></a></li>
+                     <li><a href="add-department.php"><i class="fa-regular fa-building"></i><span>Add Department</span></a></li>
+                    <li><a href="add-designations.php"><i class="fa-solid fa-user"></i><span>Add Designations</span></a></li>
+                    <li><a href="add-policy.php"><i class="fa-solid fa-book"></i><span>Add Policy</span></a></li>
+                    <!-- <li><a href="team-leaves.php"><i class="ti ti-beach"></i><span>Team Leaves</span></a></li>
                     <li><a href="team-payroll.php"><i class="ti ti-brand-mastercard"></i><span>Team Payroll</span></a></li>
                     <li><a href="termination.php"><i class="ti ti-ban"></i><span>Termination</span></a></li>
                     <li><a href="resignation.php"><i class="ti ti-file-export"></i><span>Resignation</span></a></li> -->
