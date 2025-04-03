@@ -15,7 +15,7 @@
 
 
     <?php include 'includes/style.php'; ?>
-    Performance
+
 </head>
 
 <body>
@@ -184,6 +184,7 @@
                                         </div>
                                         <div class="col-lg-4 input-box mb-3">
                                             <label class="form-label mb-0">Gender  </label>
+                                            <i class="fa-solid fa-person-half-dress"></i>
                                             <select class="select">
                                                 <option selected>Select Gender</option>
                                                 <option>Male</option>
@@ -494,6 +495,7 @@
                                     <div class="row py-2">
                                         <div class="col-lg-4 input-box mb-3">
                                             <label class="form-label mb-0">Department </label>
+                                            <i class="fa-solid fa-building"></i>
                                             <select class="select">
                                                 <option selected>Department</option>
                                                 <option>Software</option>
@@ -505,6 +507,7 @@
 
                                         <div class="col-lg-4 input-box mb-3">
                                             <label class="form-label mb-0">Designation/Job Title </label>
+                                            <i class="fa-solid fa-id-card"></i>
                                             <select class="select">
                                                 <option selected>Designation/Job Title</option>
                                                 <option>Executive</option>
@@ -516,6 +519,7 @@
 
                                         <div class="col-lg-4 input-box mb-3">
                                         <label class="form-label mb-0">Employee Type </label>
+                                        <i class="fa-solid fa-user-tie"></i>
                                             <select class="select">
                                                 <option selected>Employee Type</option>
                                                 <option>Full-Time</option>
@@ -526,6 +530,7 @@
                                         </div>
                                         <div class="col-lg-4 input-box mb-3">
                                         <label class="form-label mb-0">Reporting Manager </label>
+                                        <i class="fa-regular fa-user"></i>
                                             <select class="select">
                                                 <option selected>Reporting Manager</option>
                                                 <option>John Smith</option>
@@ -540,6 +545,7 @@
                                         </div>
                                         <div class="col-lg-4 input-box mb-3">
                                             <label class="form-label mb-0">Shift Timing  </label>
+                                            <i class="fa-regular fa-clock"></i>
                                             <select class="select">
                                                 <option selected>Shift Timing </option>
                                                 <option>Morning</option>
@@ -550,6 +556,7 @@
                                         </div>
                                         <div class="col-lg-4 input-box mb-3">
                                             <label class="form-label mb-0">Probation Period </label>
+                                            <i class="fa-solid fa-calendar-week"></i>
                                             <select class="select">
                                                 <option selected>Probation Period</option>
                                                 <option>1 Month</option>
@@ -560,6 +567,7 @@
                                         </div>
                                         <div class="col-lg-4 input-box mb-3">
                                             <label class="form-label mb-0">Employment Status  </label>
+                                            <i class="fa-regular fa-user"></i>
                                             <select class="select">
                                                 <option selected>Employment Status</option>
                                                 <option>Active</option>
@@ -585,6 +593,7 @@
                                         </div>
                                         <div class="col-lg-4 input-box mb-3">
                                             <label class="form-label mb-0">Allowances (HRA, TA, etc.) </label>
+                                            <i class="fa-solid fa-user"></i>
                                             <select class="select" multiple>
                                                 <option selected>Allowances (HRA, TA, etc.) </option>
                                                 <option>House Rent Allowance (HRA) </option>
@@ -618,6 +627,7 @@
                                         </div>
                                         <div class="col-lg-4 input-box mb-3">
                                             <label class="form-label mb-0">Payroll Type </label>
+                                            <i class="fa-solid fa-dollar-sign"></i>
                                             <select class="select">
                                                 <option selected>Payroll Type</option>
                                                 <option>Monthly</option>
@@ -658,11 +668,13 @@
 
                                         <div class="col-lg-4 input-box mb-3">
                                             <label class="form-label mb-0">Work Email </label>
+                                            <i class="fa-solid fa-envelope"></i>
                                             <input type="email" class="form-control" placeholder="Auto-generated or Manual Entry">
                                         </div>
 
                                         <div class="col-lg-4 input-box mb-3">
                                             <label class="form-label mb-0">Role in System </label>
+                                            <i class="fa-solid fa-user"></i>
                                             <select class="select">
                                                 <option selected>Select</option>
                                                 <option>Employee</option>
@@ -681,6 +693,7 @@
 
                                         <div class="col-lg-4 input-box mb-3">
                                             <label class="form-label mb-0">Assign System Modules  </label>
+                                            <i class="fa-solid fa-list-check"></i>
                                             <select class="select">
                                                 <option selected>Select</option>
                                                 <option>Payroll</option>
@@ -905,6 +918,7 @@
                                     <div class="col-md-6">
                                         <div class="mb-3">
                                             <label class="form-label">Department</label>
+                                            <i class="fa-solid fa-building"></i>
                                             <select class="select">
                                                 <option>Select</option>
                                                 <option>All Department</option>
@@ -917,6 +931,7 @@
                                     <div class="col-md-6">
                                         <div class="mb-3">
                                             <label class="form-label">Designation</label>
+                                            <i class="fa-solid fa-id-card"></i>
                                             <select class="select">
                                                 <option>Select</option>
                                                 <option selected>Team Lead</option>
