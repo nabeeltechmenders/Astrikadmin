@@ -238,6 +238,18 @@ counter-reset: item;
     font-size: 13px;
     
 }
+.select2-container--classic .select2-selection--single,
+ .select2-container--default .select2-selection--single, 
+ .select2-container--default .select2-selection--single .select2-selection__rendered, 
+ .select2-container--default .select2-selection--single .select2-selection__arrow,
+  .select2-container--default .select2-selection--multiple,
+   .select2-container--classic .select2-selection--single .select2-selection__arrow, 
+   .select2-container--classic .select2-selection--single .select2-selection__rendered {
+    border-color: #E5E7EB;
+    color: #6B7280;
+    padding-left: 18px;
+    background-color: transparent;
+}
 .input-box select{
     padding-left: 25px!important;
 }

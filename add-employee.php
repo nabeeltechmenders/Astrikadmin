@@ -184,6 +184,7 @@
                                         </div>
                                         <div class="col-lg-4 input-box mb-3">
                                             <label class="form-label mb-0">Gender  </label>
+                                            <i class="fa-solid fa-person-half-dress"></i>
                                             <select class="select">
                                                 <option selected>Select Gender</option>
                                                 <option>Male</option>
@@ -494,6 +495,7 @@
                                     <div class="row py-2">
                                         <div class="col-lg-4 input-box mb-3">
                                             <label class="form-label mb-0">Department </label>
+                                            <i class="fa-solid fa-building"></i>
                                             <select class="select">
                                                 <option selected>Department</option>
                                                 <option>Software</option>
@@ -505,6 +507,7 @@
 
                                         <div class="col-lg-4 input-box mb-3">
                                             <label class="form-label mb-0">Designation/Job Title </label>
+                                            <i class="fa-solid fa-id-card"></i>
                                             <select class="select">
                                                 <option selected>Designation/Job Title</option>
                                                 <option>Executive</option>
@@ -516,6 +519,7 @@
 
                                         <div class="col-lg-4 input-box mb-3">
                                         <label class="form-label mb-0">Employee Type </label>
+                                        <i class="fa-solid fa-user-tie"></i>
                                             <select class="select">
                                                 <option selected>Employee Type</option>
                                                 <option>Full-Time</option>
