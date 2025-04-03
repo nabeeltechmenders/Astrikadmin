@@ -425,7 +425,7 @@
                                 </div>
                                 <div>
                                     <a href="" class="avatar avatar-xl avatar-rounded online border rounded-circle">
-                                        <img src="" class="img-fluid h-auto w-auto" alt="img">
+                                    <img src="assets/img/company/company-12.svg" class="img-fluid h-auto w-auto" alt="img">
                                     </a>
                                 </div>
                                 <div class="dropdown">
@@ -446,19 +446,19 @@
                                 <h6 class="mb-1"><a href="">Aurora Technologies</a></h6>
                                 <div class="avatar-list-stacked avatar-group-sm">
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="" alt="img">
+                                        <img class="border border-white" src="assets/img/profiles/avatar-01.webp" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="" alt="img">
+                                        <img class="border border-white" src="assets/img/profiles/avatar-02.webp" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="" alt="img">
+                                        <img class="border border-white" src="assets/img/profiles/avatar-03.webp" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="" alt="img">
+                                        <img class="border border-white" src="assets/img/profiles/avatar-06.webp" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="" alt="img">
+                                        <img class="border border-white" src="assets/img/profiles/avatar-05.webp" alt="img">
                                     </span>
                                     <a class="avatar bg-primary avatar-rounded text-fixed-white fs-12" href="javascript:void(0);">
                                         +1
@@ -501,7 +501,7 @@
                                 </div>
                                 <div>
                                     <a href="" class="avatar avatar-xl avatar-rounded online border rounded-circle">
-                                        <img src="" class="img-fluid h-auto w-auto" alt="img">
+                                    <img src="assets/img/company/company-12.svg" class="img-fluid h-auto w-auto" alt="img">
                                     </a>
                                 </div>
                                 <div class="dropdown">
@@ -522,19 +522,19 @@
                                 <h6 class="mb-1"><a href="">BlueSky Ventures</a></h6>
                                 <div class="avatar-list-stacked avatar-group-sm">
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="" alt="img">
+                                        <img class="border border-white" src="assets/img/profiles/avatar-01.webp" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="" alt="img">
+                                        <img class="border border-white" src="assets/img/profiles/avatar-02.webp" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="" alt="img">
+                                        <img class="border border-white" src="assets/img/profiles/avatar-03.webp" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="" alt="img">
+                                        <img class="border border-white" src="assets/img/profiles/avatar-06.webp" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="" alt="img">
+                                        <img class="border border-white" src="assets/img/profiles/avatar-05.webp" alt="img">
                                     </span>
                                     <a class="avatar bg-primary avatar-rounded text-fixed-white fs-12" href="javascript:void(0);">
                                         +1
@@ -577,7 +577,7 @@
                                 </div>
                                 <div>
                                     <a href="" class="avatar avatar-xl avatar-rounded online border rounded-circle">
-                                        <img src="" class="img-fluid h-auto w-auto" alt="img">
+                                    <img src="assets/img/company/company-12.svg" class="img-fluid h-auto w-auto" alt="img">
                                     </a>
                                 </div>
                                 <div class="dropdown">
@@ -598,19 +598,19 @@
                                 <h6 class="mb-1"><a href="">TerraFusion Energy</a></h6>
                                 <div class="avatar-list-stacked avatar-group-sm">
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="" alt="img">
+                                        <img class="border border-white" src="assets/img/profiles/avatar-01.webp" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="" alt="img">
+                                        <img class="border border-white" src="assets/img/profiles/avatar-02.webp" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="" alt="img">
+                                        <img class="border border-white" src="assets/img/profiles/avatar-03.webp" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="" alt="img">
+                                        <img class="border border-white" src="assets/img/profiles/avatar-06.webp" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="" alt="img">
+                                        <img class="border border-white" src="assets/img/profiles/avatar-05.webp" alt="img">
                                     </span>
                                     <a class="avatar bg-primary avatar-rounded text-fixed-white fs-12" href="javascript:void(0);">
                                         +1
@@ -653,7 +653,7 @@
                                 </div>
                                 <div>
                                     <a href="" class="avatar avatar-xl avatar-rounded online border rounded-circle">
-                                        <img src="" class="img-fluid h-auto w-auto" alt="img">
+                                    <img src="assets/img/company/company-12.svg" class="img-fluid h-auto w-auto" alt="img">
                                     </a>
                                 </div>
                                 <div class="dropdown">
@@ -674,19 +674,19 @@
                                 <h6 class="mb-1"><a href="">UrbanPulse Design</a></h6>
                                 <div class="avatar-list-stacked avatar-group-sm">
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="" alt="img">
+                                        <img class="border border-white" src="assets/img/profiles/avatar-01.webp" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="" alt="img">
+                                        <img class="border border-white" src="assets/img/profiles/avatar-02.webp" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="" alt="img">
+                                        <img class="border border-white" src="assets/img/profiles/avatar-03.webp" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="" alt="img">
+                                        <img class="border border-white" src="assets/img/profiles/avatar-06.webp" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="" alt="img">
+                                        <img class="border border-white" src="assets/img/profiles/avatar-05.webp" alt="img">
                                     </span>
                                     <a class="avatar bg-primary avatar-rounded text-fixed-white fs-12" href="javascript:void(0);">
                                         +1
@@ -729,7 +729,7 @@
                                 </div>
                                 <div>
                                     <a href="" class="avatar avatar-xl avatar-rounded online border rounded-circle">
-                                        <img src="" class="img-fluid h-auto w-auto" alt="img">
+                                    <img src="assets/img/company/company-12.svg" class="img-fluid h-auto w-auto" alt="img">
                                     </a>
                                 </div>
                                 <div class="dropdown">
@@ -750,19 +750,19 @@
                                 <h6 class="mb-1"><a href="">Nimbus Networks</a></h6>
                                 <div class="avatar-list-stacked avatar-group-sm">
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="" alt="img">
+                                        <img class="border border-white" src="assets/img/profiles/avatar-01.webp" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="" alt="img">
+                                        <img class="border border-white" src="assets/img/profiles/avatar-02.webp" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="" alt="img">
+                                        <img class="border border-white" src="assets/img/profiles/avatar-03.webp" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="" alt="img">
+                                        <img class="border border-white" src="assets/img/profiles/avatar-06.webp" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="" alt="img">
+                                        <img class="border border-white" src="assets/img/profiles/avatar-05.webp" alt="img">
                                     </span>
                                     <a class="avatar bg-primary avatar-rounded text-fixed-white fs-12" href="javascript:void(0);">
                                         +1
@@ -805,7 +805,7 @@
                                 </div>
                                 <div>
                                     <a href="" class="avatar avatar-xl avatar-rounded online border rounded-circle">
-                                        <img src="" class="img-fluid h-auto w-auto" alt="img">
+                                    <img src="assets/img/company/company-12.svg" class="img-fluid h-auto w-auto" alt="img">
                                     </a>
                                 </div>
                                 <div class="dropdown">
@@ -826,19 +826,19 @@
                                 <h6 class="mb-1"><a href="">Epicurean Delights</a></h6>
                                 <div class="avatar-list-stacked avatar-group-sm">
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="" alt="img">
+                                        <img class="border border-white" src="assets/img/profiles/avatar-01.webp" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="" alt="img">
+                                        <img class="border border-white" src="assets/img/profiles/avatar-02.webp" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="" alt="img">
+                                        <img class="border border-white" src="assets/img/profiles/avatar-03.webp" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="" alt="img">
+                                        <img class="border border-white" src="assets/img/profiles/avatar-06.webp" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="" alt="img">
+                                        <img class="border border-white" src="assets/img/profiles/avatar-05.webp" alt="img">
                                     </span>
                                     <a class="avatar bg-primary avatar-rounded text-fixed-white fs-12" href="javascript:void(0);">
                                         +1
@@ -881,7 +881,7 @@
                                 </div>
                                 <div>
                                     <a href="" class="avatar avatar-xl avatar-rounded online border rounded-circle">
-                                        <img src="" class="img-fluid h-auto w-auto" alt="img">
+                                    <img src="assets/img/company/company-12.svg" class="img-fluid h-auto w-auto" alt="img">
                                     </a>
                                 </div>
                                 <div class="dropdown">
@@ -902,19 +902,19 @@
                                 <h6 class="mb-1"><a href="">Hermann Groups</a></h6>
                                 <div class="avatar-list-stacked avatar-group-sm">
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="" alt="img">
+                                        <img class="border border-white" src="assets/img/profiles/avatar-01.webp" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="" alt="img">
+                                        <img class="border border-white" src="assets/img/profiles/avatar-02.webp" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="" alt="img">
+                                        <img class="border border-white" src="assets/img/profiles/avatar-03.webp" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="" alt="img">
+                                        <img class="border border-white" src="assets/img/profiles/avatar-06.webp" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="" alt="img">
+                                        <img class="border border-white" src="assets/img/profiles/avatar-05.webp" alt="img">
                                     </span>
                                     <a class="avatar bg-primary avatar-rounded text-fixed-white fs-12" href="javascript:void(0);">
                                         +1
@@ -957,7 +957,7 @@
                                 </div>
                                 <div>
                                     <a href="" class="avatar avatar-xl avatar-rounded online border rounded-circle">
-                                        <img src="" class="img-fluid h-auto w-auto" alt="img">
+                                    <img src="assets/img/company/company-12.svg" class="img-fluid h-auto w-auto" alt="img">
                                     </a>
                                 </div>
                                 <div class="dropdown">
@@ -978,19 +978,19 @@
                                 <h6 class="mb-1"><a href="">Beacon Softwares</a></h6>
                                 <div class="avatar-list-stacked avatar-group-sm">
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="" alt="img">
+                                        <img class="border border-white" src="assets/img/profiles/avatar-01.webp" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="" alt="img">
+                                        <img class="border border-white" src="assets/img/profiles/avatar-02.webp" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="" alt="img">
+                                        <img class="border border-white" src="assets/img/profiles/avatar-03.webp" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="" alt="img">
+                                        <img class="border border-white" src="assets/img/profiles/avatar-06.webp" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="" alt="img">
+                                        <img class="border border-white" src="assets/img/profiles/avatar-05.webp" alt="img">
                                     </span>
                                     <a class="avatar bg-primary avatar-rounded text-fixed-white fs-12" href="javascript:void(0);">
                                         +1
@@ -1075,7 +1075,7 @@
                                         <div class="col-md-12">
                                             <div class="d-flex align-items-center flex-wrap row-gap-3 bg-light w-100 rounded p-3 mb-4">                                                
                                                 <div class="d-flex align-items-center justify-content-center avatar avatar-xxl rounded-circle border border-dashed me-2 flex-shrink-0 text-dark frames">
-                                                    <img src="" alt="img" class="rounded-circle">
+                                                    <img src="assets/img/profiles/avatar-30.jpg" alt="img" class="rounded-circle">
                                                 </div>                                              
                                                 <div class="profile-upload">
                                                     <div class="mb-2">
