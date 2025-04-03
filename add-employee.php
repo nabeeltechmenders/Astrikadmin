@@ -15,7 +15,7 @@
 
 
     <?php include 'includes/style.php'; ?>
-    Performance
+
 </head>
 
 <body>

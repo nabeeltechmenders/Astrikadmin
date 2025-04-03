@@ -11,7 +11,7 @@
     <title>Admin Area | Add Employee</title>
 
     <?php include 'includes/style.php'; ?>
-    Performance
+
 </head>
 
 <body>
@@ -22,11 +22,7 @@
         <?php include 'includes/header.php'; ?>
         <?php  include 'includes/sidebar.php'; ?>
 
-       <!-- Page Wrapper -->
-     
-    <!-- /Page Wrapper -->
-        <?php include 'includes/footer.php'; ?>
-    </div>
+      
    <!-- Page Wrapper -->
    <div class="page-wrapper">
         <div class="content">
@@ -43,17 +39,17 @@
                             <li class="breadcrumb-item">
                                 CRM
                             </li>
-                            <li class="breadcrumb-item active" aria-current="page">Companies Grid</li>
+                            <li class="breadcrumb-item active" aria-current="page">Add Companies</li>
                         </ol>
                     </nav>
                 </div>
                 <div class="d-flex my-xl-auto right-content align-items-center flex-wrap ">
-                    <div class="me-2 mb-2">
+                    <!-- <div class="me-2 mb-2">
                         <div class="d-flex align-items-center border bg-white rounded p-1 me-2 icon-list">
                             <a href="" class="btn btn-icon btn-sm me-1"><i class="ti ti-list-tree"></i></a>
                             <a href="" class="btn btn-icon btn-sm active bg-primary text-white"><i class="ti ti-layout-grid"></i></a>
                         </div>
-                    </div>
+                    </div> -->
                     <div class="me-2 mb-2">
                         <div class="dropdown">
                             <a href="javascript:void(0);" class="dropdown-toggle btn btn-white d-inline-flex align-items-center" data-bs-toggle="dropdown">
@@ -84,7 +80,7 @@
             <div class="card">
                 <div class="card-body p-3">
                     <div class="d-flex align-items-center justify-content-between">
-                        <h5>Companies Grid</h5>
+                        <h5>Add Companies</h5>
                         <div class="dropdown">
                             <a href="javascript:void(0);" class="dropdown-toggle btn btn-sm btn-white d-inline-flex align-items-center" data-bs-toggle="dropdown">
                                 Sort By : Last 7 Days
@@ -183,7 +179,7 @@
                                     <a href="#" class="avatar avatar-rounded avatar-sm me-1"><i class="ti ti-brand-skype"></i></a>
                                     <a href="#" class="avatar avatar-rounded avatar-sm"><i class="ti ti-brand-facebook"></i></a>
                                 </div>
-                                <span class="d-inline-flex align-items-center"><i class="ti ti-star-filled text-warning me-1"></i>4.2</span>
+                                <span class="d-inline-flex align-items-center d-none"><i class="ti ti-star-filled text-warning me-1"></i>4.2</span>
                             </div>
                         </div>
                     </div>
@@ -259,7 +255,7 @@
                                     <a href="#" class="avatar avatar-rounded avatar-sm me-1"><i class="ti ti-brand-skype"></i></a>
                                     <a href="#" class="avatar avatar-rounded avatar-sm"><i class="ti ti-brand-facebook"></i></a>
                                 </div>
-                                <span class="d-inline-flex align-items-center"><i class="ti ti-star-filled text-warning me-1"></i>5.0</span>
+                                <span class="d-inline-flex align-items-center d-none"><i class="ti ti-star-filled text-warning me-1"></i>5.0</span>
                             </div>
                         </div>
                     </div>
@@ -335,7 +331,7 @@
                                     <a href="#" class="avatar avatar-rounded avatar-sm me-1"><i class="ti ti-brand-skype"></i></a>
                                     <a href="#" class="avatar avatar-rounded avatar-sm"><i class="ti ti-brand-facebook"></i></a>
                                 </div>
-                                <span class="d-inline-flex align-items-center"><i class="ti ti-star-filled text-warning me-1"></i>4.5</span>
+                                <span class="d-inline-flex align-items-center d-none"><i class="ti ti-star-filled text-warning me-1"></i>4.5</span>
                             </div>
                         </div>
                     </div>
@@ -411,7 +407,7 @@
                                     <a href="#" class="avatar avatar-rounded avatar-sm me-1"><i class="ti ti-brand-skype"></i></a>
                                     <a href="#" class="avatar avatar-rounded avatar-sm"><i class="ti ti-brand-facebook"></i></a>
                                 </div>
-                                <span class="d-inline-flex align-items-center"><i class="ti ti-star-filled text-warning me-1"></i>4.5</span>
+                                <span class="d-inline-flex align-items-center d-none"><i class="ti ti-star-filled text-warning me-1"></i>4.5</span>
                             </div>
                         </div>
                     </div>
@@ -487,7 +483,7 @@
                                     <a href="#" class="avatar avatar-rounded avatar-sm me-1"><i class="ti ti-brand-skype"></i></a>
                                     <a href="#" class="avatar avatar-rounded avatar-sm"><i class="ti ti-brand-facebook"></i></a>
                                 </div>
-                                <span class="d-inline-flex align-items-center"><i class="ti ti-star-filled text-warning me-1"></i>3.0</span>
+                                <span class="d-inline-flex align-items-center d-none"><i class="ti ti-star-filled text-warning me-1"></i>3.0</span>
                             </div>
                         </div>
                     </div>
@@ -563,7 +559,7 @@
                                     <a href="#" class="avatar avatar-rounded avatar-sm me-1"><i class="ti ti-brand-skype"></i></a>
                                     <a href="#" class="avatar avatar-rounded avatar-sm"><i class="ti ti-brand-facebook"></i></a>
                                 </div>
-                                <span class="d-inline-flex align-items-center"><i class="ti ti-star-filled text-warning me-1"></i>5.0</span>
+                                <span class="d-inline-flex align-items-center d-none"><i class="ti ti-star-filled text-warning me-1"></i>5.0</span>
                             </div>
                         </div>
                     </div>
@@ -639,7 +635,7 @@
                                     <a href="#" class="avatar avatar-rounded avatar-sm me-1"><i class="ti ti-brand-skype"></i></a>
                                     <a href="#" class="avatar avatar-rounded avatar-sm"><i class="ti ti-brand-facebook"></i></a>
                                 </div>
-                                <span class="d-inline-flex align-items-center"><i class="ti ti-star-filled text-warning me-1"></i>3.5</span>
+                                <span class="d-inline-flex align-items-center d-none"><i class="ti ti-star-filled text-warning me-1"></i>3.5</span>
                             </div>
                         </div>
                     </div>
@@ -715,7 +711,7 @@
                                     <a href="#" class="avatar avatar-rounded avatar-sm me-1"><i class="ti ti-brand-skype"></i></a>
                                     <a href="#" class="avatar avatar-rounded avatar-sm"><i class="ti ti-brand-facebook"></i></a>
                                 </div>
-                                <span class="d-inline-flex align-items-center"><i class="ti ti-star-filled text-warning me-1"></i>4.5</span>
+                                <span class="d-inline-flex align-items-center d-none"><i class="ti ti-star-filled text-warning me-1"></i>4.5</span>
                             </div>
                         </div>
                     </div>
@@ -791,7 +787,7 @@
                                     <a href="#" class="avatar avatar-rounded avatar-sm me-1"><i class="ti ti-brand-skype"></i></a>
                                     <a href="#" class="avatar avatar-rounded avatar-sm"><i class="ti ti-brand-facebook"></i></a>
                                 </div>
-                                <span class="d-inline-flex align-items-center"><i class="ti ti-star-filled text-warning me-1"></i>4.4</span>
+                                <span class="d-inline-flex align-items-center d-none"><i class="ti ti-star-filled text-warning me-1"></i>4.4</span>
                             </div>
                         </div>
                     </div>
@@ -867,7 +863,7 @@
                                     <a href="#" class="avatar avatar-rounded avatar-sm me-1"><i class="ti ti-brand-skype"></i></a>
                                     <a href="#" class="avatar avatar-rounded avatar-sm"><i class="ti ti-brand-facebook"></i></a>
                                 </div>
-                                <span class="d-inline-flex align-items-center"><i class="ti ti-star-filled text-warning me-1"></i>2.7</span>
+                                <span class="d-inline-flex align-items-center d-none"><i class="ti ti-star-filled text-warning me-1"></i>2.7</span>
                             </div>
                         </div>
                     </div>
@@ -943,7 +939,7 @@
                                     <a href="#" class="avatar avatar-rounded avatar-sm me-1"><i class="ti ti-brand-skype"></i></a>
                                     <a href="#" class="avatar avatar-rounded avatar-sm"><i class="ti ti-brand-facebook"></i></a>
                                 </div>
-                                <span class="d-inline-flex align-items-center"><i class="ti ti-star-filled text-warning me-1"></i>4.6</span>
+                                <span class="d-inline-flex align-items-center d-none"><i class="ti ti-star-filled text-warning me-1"></i>4.6</span>
                             </div>
                         </div>
                     </div>
@@ -1019,23 +1015,27 @@
                                     <a href="#" class="avatar avatar-rounded avatar-sm me-1"><i class="ti ti-brand-skype"></i></a>
                                     <a href="#" class="avatar avatar-rounded avatar-sm"><i class="ti ti-brand-facebook"></i></a>
                                 </div>
-                                <span class="d-inline-flex align-items-center"><i class="ti ti-star-filled text-warning me-1"></i>4.2</span>
+                                <span class="d-inline-flex align-items-center d-none"><i class="ti ti-star-filled text-warning me-1"></i>4.2</span>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="text-center mb-4">
+            <!-- <div class="text-center mb-4">
                 <a href="#" class="btn btn-white border"><i class="ti ti-loader-3 text-primary me-2"></i>Load More</a>
-            </div>
+            </div> -->
         </div>
 
         <!-- <div class="footer d-sm-flex align-items-center justify-content-between border-top bg-white p-3">
             <p class="mb-0">2014 - 2025 &copy; SmartHR.</p>
             <p>Designed &amp; Developed By <a href="javascript:void(0);" class="text-primary">Dreams</a></p>
         </div> -->
-
+ <!-- Page Wrapper -->
+     
+    <!-- /Page Wrapper -->
+    <?php include 'includes/footer.php'; ?>
     </div>
+    
     <!-- /Page Wrapper -->
 
     </div>
@@ -1540,12 +1540,12 @@
                                                 <input type="text" class="form-control">
                                             </div>									
                                         </div>
-                                        <div class="col-md-6">
+                                        <!-- <div class="col-md-6">
                                             <div class="mb-3">
                                                 <label class="form-label">Reviews <span class="text-danger">*</span></label>
                                                 <input type="text" class="form-control" value="4.5">
                                             </div>									
-                                        </div>
+                                        </div> -->
                                         <div class="col-md-6">
                                             <div class="mb-3">
                                                 <label class="form-label">Owner <span class="text-danger">*</span></label>
@@ -1557,13 +1557,13 @@
                                                 </select>
                                             </div>									
                                         </div>
-                                        <div class="col-md-6">
+                                         <!-- <div class="col-md-6">
                                             <div class="mb-3 ">
                                                 <label class="form-label">Tags <span class="text-danger">*</span> </label>
                                                 <input class="input-tags form-control" placeholder="Add new" type="text" data-role="tagsinput"  name="Label" value="Collab,Promotion,Rated">
                                             </div>
                                         </div>
-                                        <div class="col-md-6">
+                                       <div class="col-md-6">
                                             <div class="mb-3">
                                                 <div class="d-flex justify-content-between align-items-center mb-2">
                                                     <label class="col-form-label p-0">Deals <span class="text-danger">*</span></label>
@@ -1576,7 +1576,7 @@
                                                     <option>Adams</option>
                                                 </select>
                                             </div>		
-                                        </div>
+                                        </div> -->
                                         <div class="col-md-6">
                                             <div class="mb-3 ">
                                                 <label class="form-label">Industry <span class="text-danger">*</span></label>
@@ -1626,7 +1626,7 @@
                                                 <textarea class="form-control">Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam nisi numquam vitae consequatur impedit rem laboriosam iusto sapiente ex mollitia voluptate ullam laudantium, vel atque ducimus blanditiis magni perspiciatis nulla.</textarea>
                                             </div>
                                         </div>
-                                        <div class="col-md-12">
+                                        <!-- <div class="col-md-12">
                                             <div class="mb-3">
                                                 <div class="d-flex justify-content-between align-items-center mb-2">
                                                     <label class="col-form-label p-0">Contact <span class="text-danger">*</span></label>
@@ -1640,12 +1640,12 @@
                                                     <option>Carol Thomas</option>
                                                 </select>
                                             </div>		
-                                        </div>
+                                        </div> -->
                                     </div>
                                 </div>
                                 <div class="modal-footer">
                                     <button type="button" class="btn btn-light me-2" data-bs-dismiss="modal">Cancel</button>
-                                    <button type="submit" class="btn btn-primary">Save </button>
+                                    <button type="submit" class="btn btn-primary">Save</button>
                                 </div>
                         </div>
                         <div class="tab-pane fade" id="address2" role="tabpanel" aria-labelledby="address-tab2" tabindex="0">
