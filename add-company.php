@@ -38,7 +38,7 @@
                     <nav>
                         <ol class="breadcrumb mb-0">
                             <li class="breadcrumb-item">
-                                <a href="https://smarthr.dreamstechnologies.com/laravel/template/public/index"><i class="ti ti-smart-home"></i></a>
+                                <a href=""><i class="ti ti-smart-home"></i></a>
                             </li>
                             <li class="breadcrumb-item">
                                 CRM
@@ -50,8 +50,8 @@
                 <div class="d-flex my-xl-auto right-content align-items-center flex-wrap ">
                     <div class="me-2 mb-2">
                         <div class="d-flex align-items-center border bg-white rounded p-1 me-2 icon-list">
-                            <a href="https://smarthr.dreamstechnologies.com/laravel/template/public/companies-crm" class="btn btn-icon btn-sm me-1"><i class="ti ti-list-tree"></i></a>
-                            <a href="https://smarthr.dreamstechnologies.com/laravel/template/public/companies-grid" class="btn btn-icon btn-sm active bg-primary text-white"><i class="ti ti-layout-grid"></i></a>
+                            <a href="" class="btn btn-icon btn-sm me-1"><i class="ti ti-list-tree"></i></a>
+                            <a href="" class="btn btn-icon btn-sm active bg-primary text-white"><i class="ti ti-layout-grid"></i></a>
                         </div>
                     </div>
                     <div class="me-2 mb-2">
@@ -120,8 +120,8 @@
                                     <input class="form-check-input" type="checkbox">
                                 </div>
                                 <div>
-                                    <a href="https://smarthr.dreamstechnologies.com/laravel/template/public/company-details" class="avatar avatar-xl avatar-rounded online border rounded-circle">
-                                        <img src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/company/company-12.svg" class="img-fluid h-auto w-auto" alt="img">
+                                    <a href="" class="avatar avatar-xl avatar-rounded online border rounded-circle">
+                                        <img src="assets/img/company/company-12.svg" class="img-fluid h-auto w-auto" alt="img">
                                     </a>
                                 </div>
                                 <div class="dropdown">
@@ -139,22 +139,22 @@
                                 </div>
                             </div>
                             <div class="text-center mb-3">
-                                <h6 class="mb-1"><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/company-details">BrightWave Innovations</a></h6>
+                                <h6 class="mb-1"><a href="">BrightWave Innovations</a></h6>
                                 <div class="avatar-list-stacked avatar-group-sm">
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-05.jpg" alt="img">
+                                        <img class="border border-white" src="assets/img/profiles/avatar-01.webp" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-06.jpg" alt="img">
+                                        <img class="border border-white" src="assets/img/profiles/avatar-02.webp" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-07.jpg" alt="img">
+                                        <img class="border border-white" src="assets/img/profiles/avatar-03.webp" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-08.jpg" alt="img">
+                                        <img class="border border-white" src="assets/img/profiles/avatar-06.webp" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-09.jpg" alt="img">
+                                        <img class="border border-white" src="assets/img/profiles/avatar-05.webp" alt="img">
                                     </span>
                                     <a class="avatar bg-primary avatar-rounded text-fixed-white fs-12" href="javascript:void(0);">
                                         +1
@@ -196,8 +196,8 @@
                                     <input class="form-check-input" type="checkbox">
                                 </div>
                                 <div>
-                                    <a href="https://smarthr.dreamstechnologies.com/laravel/template/public/company-details" class="avatar avatar-xl avatar-rounded online border rounded-circle">
-                                        <img src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/company/company-13.svg" class="img-fluid h-auto w-auto" alt="img">
+                                    <a href="" class="avatar avatar-xl avatar-rounded online border rounded-circle">
+                                    <img src="assets/img/company/company-12.svg" class="img-fluid h-auto w-auto" alt="img">
                                     </a>
                                 </div>
                                 <div class="dropdown">
@@ -215,22 +215,22 @@
                                 </div>
                             </div>
                             <div class="text-center mb-3">
-                                <h6 class="mb-1"><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/company-details">Stellar Dynamics</a></h6>
+                                <h6 class="mb-1"><a href="">Stellar Dynamics</a></h6>
                                 <div class="avatar-list-stacked avatar-group-sm">
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-01.jpg" alt="img">
+                                        <img class="border border-white" src="assets/img/profiles/avatar-01.webp" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-02.jpg" alt="img">
+                                        <img class="border border-white" src="assets/img/profiles/avatar-02.webp" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-03.jpg" alt="img">
+                                        <img class="border border-white" src="assets/img/profiles/avatar-03.webp" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-04.jpg" alt="img">
+                                        <img class="border border-white" src="assets/img/profiles/avatar-06.webp" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-05.jpg" alt="img">
+                                        <img class="border border-white" src="assets/img/profiles/avatar-05.webp" alt="img">
                                     </span>
                                     <a class="avatar bg-primary avatar-rounded text-fixed-white fs-12" href="javascript:void(0);">
                                         +1
@@ -272,8 +272,8 @@
                                     <input class="form-check-input" type="checkbox">
                                 </div>
                                 <div>
-                                    <a href="https://smarthr.dreamstechnologies.com/laravel/template/public/company-details" class="avatar avatar-xl avatar-rounded online border rounded-circle">
-                                        <img src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/company/company-14.svg" class="img-fluid h-auto w-auto" alt="img">
+                                    <a href="" class="avatar avatar-xl avatar-rounded online border rounded-circle">
+                                    <img src="assets/img/company/company-12.svg" class="img-fluid h-auto w-auto" alt="img">
                                     </a>
                                 </div>
                                 <div class="dropdown">
@@ -291,22 +291,22 @@
                                 </div>
                             </div>
                             <div class="text-center mb-3">
-                                <h6 class="mb-1"><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/company-details">Quantum Nexus</a></h6>
+                                <h6 class="mb-1"><a href="">Quantum Nexus</a></h6>
                                 <div class="avatar-list-stacked avatar-group-sm">
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-06.jpg" alt="img">
+                                        <img class="border border-white" src="assets/img/profiles/avatar-01.webp" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-07.jpg" alt="img">
+                                        <img class="border border-white" src="assets/img/profiles/avatar-02.webp" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-03.jpg" alt="img">
+                                        <img class="border border-white" src="assets/img/profiles/avatar-03.webp" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-04.jpg" alt="img">
+                                        <img class="border border-white" src="assets/img/profiles/avatar-06.webp" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-05.jpg" alt="img">
+                                        <img class="border border-white" src="assets/img/profiles/avatar-05.webp" alt="img">
                                     </span>
                                     <a class="avatar bg-primary avatar-rounded text-fixed-white fs-12" href="javascript:void(0);">
                                         +1
@@ -348,8 +348,8 @@
                                     <input class="form-check-input" type="checkbox">
                                 </div>
                                 <div>
-                                    <a href="https://smarthr.dreamstechnologies.com/laravel/template/public/company-details" class="avatar avatar-xl avatar-rounded online border rounded-circle">
-                                        <img src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/company/company-15.svg" class="img-fluid h-auto w-auto" alt="img">
+                                    <a href="" class="avatar avatar-xl avatar-rounded online border rounded-circle">
+                                    <img src="assets/img/company/company-12.svg" class="img-fluid h-auto w-auto" alt="img">
                                     </a>
                                 </div>
                                 <div class="dropdown">
@@ -367,22 +367,22 @@
                                 </div>
                             </div>
                             <div class="text-center mb-3">
-                                <h6 class="mb-1"><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/company-details">EcoVision Enterprises</a></h6>
+                                <h6 class="mb-1"><a href="">EcoVision Enterprises</a></h6>
                                 <div class="avatar-list-stacked avatar-group-sm">
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-08.jpg" alt="img">
+                                        <img class="border border-white" src="assets/img/profiles/avatar-01.webp" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-09.jpg" alt="img">
+                                        <img class="border border-white" src="assets/img/profiles/avatar-02.webp" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-10.jpg" alt="img">
+                                        <img class="border border-white" src="assets/img/profiles/avatar-03.webp" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-11.jpg" alt="img">
+                                        <img class="border border-white" src="assets/img/profiles/avatar-06.webp" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-12.jpg" alt="img">
+                                        <img class="border border-white" src="assets/img/profiles/avatar-05.webp" alt="img">
                                     </span>
                                     <a class="avatar bg-primary avatar-rounded text-fixed-white fs-12" href="javascript:void(0);">
                                         +1
@@ -424,8 +424,8 @@
                                     <input class="form-check-input" type="checkbox">
                                 </div>
                                 <div>
-                                    <a href="https://smarthr.dreamstechnologies.com/laravel/template/public/company-details" class="avatar avatar-xl avatar-rounded online border rounded-circle">
-                                        <img src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/company/company-16.svg" class="img-fluid h-auto w-auto" alt="img">
+                                    <a href="" class="avatar avatar-xl avatar-rounded online border rounded-circle">
+                                        <img src="" class="img-fluid h-auto w-auto" alt="img">
                                     </a>
                                 </div>
                                 <div class="dropdown">
@@ -443,22 +443,22 @@
                                 </div>
                             </div>
                             <div class="text-center mb-3">
-                                <h6 class="mb-1"><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/company-details">Aurora Technologies</a></h6>
+                                <h6 class="mb-1"><a href="">Aurora Technologies</a></h6>
                                 <div class="avatar-list-stacked avatar-group-sm">
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-13.jpg" alt="img">
+                                        <img class="border border-white" src="" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-14.jpg" alt="img">
+                                        <img class="border border-white" src="" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-15.jpg" alt="img">
+                                        <img class="border border-white" src="" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-16.jpg" alt="img">
+                                        <img class="border border-white" src="" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-17.jpg" alt="img">
+                                        <img class="border border-white" src="" alt="img">
                                     </span>
                                     <a class="avatar bg-primary avatar-rounded text-fixed-white fs-12" href="javascript:void(0);">
                                         +1
@@ -500,8 +500,8 @@
                                     <input class="form-check-input" type="checkbox">
                                 </div>
                                 <div>
-                                    <a href="https://smarthr.dreamstechnologies.com/laravel/template/public/company-details" class="avatar avatar-xl avatar-rounded online border rounded-circle">
-                                        <img src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/company/company-17.svg" class="img-fluid h-auto w-auto" alt="img">
+                                    <a href="" class="avatar avatar-xl avatar-rounded online border rounded-circle">
+                                        <img src="" class="img-fluid h-auto w-auto" alt="img">
                                     </a>
                                 </div>
                                 <div class="dropdown">
@@ -519,22 +519,22 @@
                                 </div>
                             </div>
                             <div class="text-center mb-3">
-                                <h6 class="mb-1"><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/company-details">BlueSky Ventures</a></h6>
+                                <h6 class="mb-1"><a href="">BlueSky Ventures</a></h6>
                                 <div class="avatar-list-stacked avatar-group-sm">
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-18.jpg" alt="img">
+                                        <img class="border border-white" src="" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-19.jpg" alt="img">
+                                        <img class="border border-white" src="" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-20.jpg" alt="img">
+                                        <img class="border border-white" src="" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-21.jpg" alt="img">
+                                        <img class="border border-white" src="" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-22.jpg" alt="img">
+                                        <img class="border border-white" src="" alt="img">
                                     </span>
                                     <a class="avatar bg-primary avatar-rounded text-fixed-white fs-12" href="javascript:void(0);">
                                         +1
@@ -576,8 +576,8 @@
                                     <input class="form-check-input" type="checkbox">
                                 </div>
                                 <div>
-                                    <a href="https://smarthr.dreamstechnologies.com/laravel/template/public/company-details" class="avatar avatar-xl avatar-rounded online border rounded-circle">
-                                        <img src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/company/company-18.svg" class="img-fluid h-auto w-auto" alt="img">
+                                    <a href="" class="avatar avatar-xl avatar-rounded online border rounded-circle">
+                                        <img src="" class="img-fluid h-auto w-auto" alt="img">
                                     </a>
                                 </div>
                                 <div class="dropdown">
@@ -595,22 +595,22 @@
                                 </div>
                             </div>
                             <div class="text-center mb-3">
-                                <h6 class="mb-1"><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/company-details">TerraFusion Energy</a></h6>
+                                <h6 class="mb-1"><a href="">TerraFusion Energy</a></h6>
                                 <div class="avatar-list-stacked avatar-group-sm">
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-23.jpg" alt="img">
+                                        <img class="border border-white" src="" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-24.jpg" alt="img">
+                                        <img class="border border-white" src="" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-25.jpg" alt="img">
+                                        <img class="border border-white" src="" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-26.jpg" alt="img">
+                                        <img class="border border-white" src="" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-27.jpg" alt="img">
+                                        <img class="border border-white" src="" alt="img">
                                     </span>
                                     <a class="avatar bg-primary avatar-rounded text-fixed-white fs-12" href="javascript:void(0);">
                                         +1
@@ -652,8 +652,8 @@
                                     <input class="form-check-input" type="checkbox">
                                 </div>
                                 <div>
-                                    <a href="https://smarthr.dreamstechnologies.com/laravel/template/public/company-details" class="avatar avatar-xl avatar-rounded online border rounded-circle">
-                                        <img src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/company/company-19.svg" class="img-fluid h-auto w-auto" alt="img">
+                                    <a href="" class="avatar avatar-xl avatar-rounded online border rounded-circle">
+                                        <img src="" class="img-fluid h-auto w-auto" alt="img">
                                     </a>
                                 </div>
                                 <div class="dropdown">
@@ -671,22 +671,22 @@
                                 </div>
                             </div>
                             <div class="text-center mb-3">
-                                <h6 class="mb-1"><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/company-details">UrbanPulse Design</a></h6>
+                                <h6 class="mb-1"><a href="">UrbanPulse Design</a></h6>
                                 <div class="avatar-list-stacked avatar-group-sm">
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-28.jpg" alt="img">
+                                        <img class="border border-white" src="" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-29.jpg" alt="img">
+                                        <img class="border border-white" src="" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-30.jpg" alt="img">
+                                        <img class="border border-white" src="" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-01.jpg" alt="img">
+                                        <img class="border border-white" src="" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-02.jpg" alt="img">
+                                        <img class="border border-white" src="" alt="img">
                                     </span>
                                     <a class="avatar bg-primary avatar-rounded text-fixed-white fs-12" href="javascript:void(0);">
                                         +1
@@ -728,8 +728,8 @@
                                     <input class="form-check-input" type="checkbox">
                                 </div>
                                 <div>
-                                    <a href="https://smarthr.dreamstechnologies.com/laravel/template/public/company-details" class="avatar avatar-xl avatar-rounded online border rounded-circle">
-                                        <img src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/company/company-20.svg" class="img-fluid h-auto w-auto" alt="img">
+                                    <a href="" class="avatar avatar-xl avatar-rounded online border rounded-circle">
+                                        <img src="" class="img-fluid h-auto w-auto" alt="img">
                                     </a>
                                 </div>
                                 <div class="dropdown">
@@ -747,22 +747,22 @@
                                 </div>
                             </div>
                             <div class="text-center mb-3">
-                                <h6 class="mb-1"><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/company-details">Nimbus Networks</a></h6>
+                                <h6 class="mb-1"><a href="">Nimbus Networks</a></h6>
                                 <div class="avatar-list-stacked avatar-group-sm">
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-10.jpg" alt="img">
+                                        <img class="border border-white" src="" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-11.jpg" alt="img">
+                                        <img class="border border-white" src="" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-12.jpg" alt="img">
+                                        <img class="border border-white" src="" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-13.jpg" alt="img">
+                                        <img class="border border-white" src="" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-14.jpg" alt="img">
+                                        <img class="border border-white" src="" alt="img">
                                     </span>
                                     <a class="avatar bg-primary avatar-rounded text-fixed-white fs-12" href="javascript:void(0);">
                                         +1
@@ -804,8 +804,8 @@
                                     <input class="form-check-input" type="checkbox">
                                 </div>
                                 <div>
-                                    <a href="https://smarthr.dreamstechnologies.com/laravel/template/public/company-details" class="avatar avatar-xl avatar-rounded online border rounded-circle">
-                                        <img src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/company/company-21.svg" class="img-fluid h-auto w-auto" alt="img">
+                                    <a href="" class="avatar avatar-xl avatar-rounded online border rounded-circle">
+                                        <img src="" class="img-fluid h-auto w-auto" alt="img">
                                     </a>
                                 </div>
                                 <div class="dropdown">
@@ -823,22 +823,22 @@
                                 </div>
                             </div>
                             <div class="text-center mb-3">
-                                <h6 class="mb-1"><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/company-details">Epicurean Delights</a></h6>
+                                <h6 class="mb-1"><a href="">Epicurean Delights</a></h6>
                                 <div class="avatar-list-stacked avatar-group-sm">
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-15.jpg" alt="img">
+                                        <img class="border border-white" src="" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-16.jpg" alt="img">
+                                        <img class="border border-white" src="" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-17.jpg" alt="img">
+                                        <img class="border border-white" src="" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-18.jpg" alt="img">
+                                        <img class="border border-white" src="" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-19.jpg" alt="img">
+                                        <img class="border border-white" src="" alt="img">
                                     </span>
                                     <a class="avatar bg-primary avatar-rounded text-fixed-white fs-12" href="javascript:void(0);">
                                         +1
@@ -880,8 +880,8 @@
                                     <input class="form-check-input" type="checkbox">
                                 </div>
                                 <div>
-                                    <a href="https://smarthr.dreamstechnologies.com/laravel/template/public/company-details" class="avatar avatar-xl avatar-rounded online border rounded-circle">
-                                        <img src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/company/company-22.svg" class="img-fluid h-auto w-auto" alt="img">
+                                    <a href="" class="avatar avatar-xl avatar-rounded online border rounded-circle">
+                                        <img src="" class="img-fluid h-auto w-auto" alt="img">
                                     </a>
                                 </div>
                                 <div class="dropdown">
@@ -899,22 +899,22 @@
                                 </div>
                             </div>
                             <div class="text-center mb-3">
-                                <h6 class="mb-1"><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/company-details">Hermann Groups</a></h6>
+                                <h6 class="mb-1"><a href="">Hermann Groups</a></h6>
                                 <div class="avatar-list-stacked avatar-group-sm">
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-20.jpg" alt="img">
+                                        <img class="border border-white" src="" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-21.jpg" alt="img">
+                                        <img class="border border-white" src="" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-22.jpg" alt="img">
+                                        <img class="border border-white" src="" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-23.jpg" alt="img">
+                                        <img class="border border-white" src="" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-24.jpg" alt="img">
+                                        <img class="border border-white" src="" alt="img">
                                     </span>
                                     <a class="avatar bg-primary avatar-rounded text-fixed-white fs-12" href="javascript:void(0);">
                                         +1
@@ -956,8 +956,8 @@
                                     <input class="form-check-input" type="checkbox">
                                 </div>
                                 <div>
-                                    <a href="https://smarthr.dreamstechnologies.com/laravel/template/public/company-details" class="avatar avatar-xl avatar-rounded online border rounded-circle">
-                                        <img src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/company/company-23.svg" class="img-fluid h-auto w-auto" alt="img">
+                                    <a href="" class="avatar avatar-xl avatar-rounded online border rounded-circle">
+                                        <img src="" class="img-fluid h-auto w-auto" alt="img">
                                     </a>
                                 </div>
                                 <div class="dropdown">
@@ -975,22 +975,22 @@
                                 </div>
                             </div>
                             <div class="text-center mb-3">
-                                <h6 class="mb-1"><a href="https://smarthr.dreamstechnologies.com/laravel/template/public/company-details">Beacon Softwares</a></h6>
+                                <h6 class="mb-1"><a href="">Beacon Softwares</a></h6>
                                 <div class="avatar-list-stacked avatar-group-sm">
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-25.jpg" alt="img">
+                                        <img class="border border-white" src="" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-26.jpg" alt="img">
+                                        <img class="border border-white" src="" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-27.jpg" alt="img">
+                                        <img class="border border-white" src="" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-28.jpg" alt="img">
+                                        <img class="border border-white" src="" alt="img">
                                     </span>
                                     <span class="avatar avatar-rounded">
-                                        <img class="border border-white" src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-29.jpg" alt="img">
+                                        <img class="border border-white" src="" alt="img">
                                     </span>
                                     <a class="avatar bg-primary avatar-rounded text-fixed-white fs-12" href="javascript:void(0);">
                                         +1
@@ -1050,7 +1050,7 @@
                         <i class="ti ti-x"></i>
                     </button>
                 </div>
-                <form action="https://smarthr.dreamstechnologies.com/laravel/template/public/companies-crm">
+                <form action="">
                     <div class="contact-grids-tab">
                         <ul class="nav nav-underline" id="myTab" role="tablist">
                             <li class="nav-item" role="presentation">
@@ -1075,7 +1075,7 @@
                                         <div class="col-md-12">
                                             <div class="d-flex align-items-center flex-wrap row-gap-3 bg-light w-100 rounded p-3 mb-4">                                                
                                                 <div class="d-flex align-items-center justify-content-center avatar avatar-xxl rounded-circle border border-dashed me-2 flex-shrink-0 text-dark frames">
-                                                    <img src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-30.jpg" alt="img" class="rounded-circle">
+                                                    <img src="" alt="img" class="rounded-circle">
                                                 </div>                                              
                                                 <div class="profile-upload">
                                                     <div class="mb-2">
@@ -1367,7 +1367,7 @@
                                         <input class="form-check-input me-1" type="checkbox" value="" id="user-06">
                                         <div class="d-flex align-items-center file-name-icon">
                                             <a href="#" class="avatar avatar-md border avatar-rounded">
-                                                <img src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/reports/user-01.jpg" class="img-fluid" alt="img">
+                                                <img src="" class="img-fluid" alt="img">
                                             </a>
                                             <div class="ms-2">
                                                 <h6 class="fw-normal"><a href="#">Michael Walker</a></h6>
@@ -1378,7 +1378,7 @@
                                         <input class="form-check-input me-1" type="checkbox" value="" id="user-07">
                                         <div class="d-flex align-items-center file-name-icon">
                                             <a href="#" class="avatar avatar-md border avatar-rounded">
-                                                <img src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/reports/user-02.jpg" class="img-fluid" alt="img">
+                                                <img src="" class="img-fluid" alt="img">
                                             </a>
                                             <div class="ms-2">
                                                 <h6 class="fw-normal"><a href="#">Sophie Headrick</a></h6>
@@ -1389,7 +1389,7 @@
                                         <input class="form-check-input me-1" type="checkbox" value="" id="user-08">
                                         <div class="d-flex align-items-center file-name-icon">
                                             <a href="#" class="avatar avatar-md border avatar-rounded">
-                                                <img src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/reports/user-03.jpg" class="img-fluid" alt="img">
+                                                <img src="" class="img-fluid" alt="img">
                                             </a>
                                             <div class="ms-2">
                                                 <h6 class="fw-normal"><a href="#">Cameron Drake</a></h6>
@@ -1400,7 +1400,7 @@
                                         <input class="form-check-input me-1" type="checkbox" value="" id="user-09">
                                         <div class="d-flex align-items-center file-name-icon">
                                             <a href="#" class="avatar avatar-md border avatar-rounded">
-                                                <img src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/reports/user-04.jpg" class="img-fluid" alt="img">
+                                                <img src="" class="img-fluid" alt="img">
                                             </a>
                                             <div class="ms-2">
                                                 <h6 class="fw-normal"><a href="#">Doris Crowley</a></h6>
@@ -1411,7 +1411,7 @@
                                         <input class="form-check-input me-1" type="checkbox" value="" id="user-11">
                                         <div class="d-flex align-items-center file-name-icon">
                                             <a href="#" class="avatar avatar-md border avatar-rounded">
-                                                <img src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-12.jpg" class="img-fluid" alt="img">
+                                                <img src="" class="img-fluid" alt="img">
                                             </a>
                                             <div class="ms-2">
                                                 <h6 class="fw-normal"><a href="#">Thomas Bordelon</a></h6>
@@ -1456,7 +1456,7 @@
                         <i class="ti ti-x"></i>
                     </button>
                 </div>
-                <form action="https://smarthr.dreamstechnologies.com/laravel/template/public/companies-crm">
+                <form action="">
                     <div class="contact-grids-tab">
                         <ul class="nav nav-underline" id="myTab2" role="tablist">
                             <li class="nav-item" role="presentation">
@@ -1481,7 +1481,7 @@
                                         <div class="col-md-12">
                                             <div class="d-flex align-items-center flex-wrap row-gap-3 bg-light w-100 rounded p-3 mb-4">                                                
                                                 <div class="d-flex align-items-center justify-content-center avatar avatar-xxl rounded-circle border border-dashed me-2 flex-shrink-0 text-dark frames">
-                                                    <img src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-30.jpg" alt="img" class="rounded-circle">
+                                                    <img src="" alt="img" class="rounded-circle">
                                                 </div>                                              
                                                 <div class="profile-upload">
                                                     <div class="mb-2">
@@ -1773,7 +1773,7 @@
                                         <input class="form-check-input me-1" type="checkbox" value="" id="user-006">
                                         <div class="d-flex align-items-center file-name-icon">
                                             <a href="#" class="avatar avatar-md border avatar-rounded">
-                                                <img src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/reports/user-01.jpg" class="img-fluid" alt="img">
+                                                <img src="" class="img-fluid" alt="img">
                                             </a>
                                             <div class="ms-2">
                                                 <h6 class="fw-normal"><a href="#">Michael Walker</a></h6>
@@ -1784,7 +1784,7 @@
                                         <input class="form-check-input me-1" type="checkbox" value="" id="user-007">
                                         <div class="d-flex align-items-center file-name-icon">
                                             <a href="#" class="avatar avatar-md border avatar-rounded">
-                                                <img src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/reports/user-02.jpg" class="img-fluid" alt="img">
+                                                <img src="" class="img-fluid" alt="img">
                                             </a>
                                             <div class="ms-2">
                                                 <h6 class="fw-normal"><a href="#">Sophie Headrick</a></h6>
@@ -1795,7 +1795,7 @@
                                         <input class="form-check-input me-1" type="checkbox" value="" id="user-008">
                                         <div class="d-flex align-items-center file-name-icon">
                                             <a href="#" class="avatar avatar-md border avatar-rounded">
-                                                <img src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/reports/user-03.jpg" class="img-fluid" alt="img">
+                                                <img src="" class="img-fluid" alt="img">
                                             </a>
                                             <div class="ms-2">
                                                 <h6 class="fw-normal"><a href="#">Cameron Drake</a></h6>
@@ -1806,7 +1806,7 @@
                                         <input class="form-check-input me-1" type="checkbox" value="" id="user-009">
                                         <div class="d-flex align-items-center file-name-icon">
                                             <a href="#" class="avatar avatar-md border avatar-rounded">
-                                                <img src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/reports/user-04.jpg" class="img-fluid" alt="img">
+                                                <img src="" class="img-fluid" alt="img">
                                             </a>
                                             <div class="ms-2">
                                                 <h6 class="fw-normal"><a href="#">Doris Crowley</a></h6>
@@ -1817,7 +1817,7 @@
                                         <input class="form-check-input me-1" type="checkbox" value="" id="user-100">
                                         <div class="d-flex align-items-center file-name-icon">
                                             <a href="#" class="avatar avatar-md border avatar-rounded">
-                                                <img src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-12.jpg" class="img-fluid" alt="img">
+                                                <img src="" class="img-fluid" alt="img">
                                             </a>
                                             <div class="ms-2">
                                                 <h6 class="fw-normal"><a href="#">Thomas Bordelon</a></h6>
@@ -1862,7 +1862,7 @@
                         <i class="ti ti-x"></i>
                     </button>
                 </div>
-                <form action="https://smarthr.dreamstechnologies.com/laravel/template/public/deals-grid">
+                <form action="">
                     <div class="modal-body pb-0">
                         <div class="row">
                             <div class="col-md-12">
@@ -2055,7 +2055,7 @@
                         <i class="ti ti-x"></i>
                     </button>
                 </div>
-                <form action="https://smarthr.dreamstechnologies.com/laravel/template/public/pipeline">
+                <form action="">
                     <div class="modal-body pb-0">
                         <div class="row">
                             <div class="col-md-12">
@@ -2130,7 +2130,7 @@
                                                     <div class="d-flex align-items-center justify-content-between">
                                                         <div class="d-flex align-items-center file-name-icon">
                                                             <a href="#" class="avatar avatar-md border avatar-rounded">
-                                                                <img src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-20.jpg" class="img-fluid" alt="img">
+                                                                <img src="" class="img-fluid" alt="img">
                                                             </a>
                                                             <div class="ms-2">
                                                                 <h6 class="fw-medium"><a href="#">Sharon Roy</a></h6>
@@ -2145,7 +2145,7 @@
                                                     <div class="d-flex align-items-center justify-content-between">
                                                         <div class="d-flex align-items-center file-name-icon">
                                                             <a href="#" class="avatar avatar-md border avatar-rounded">
-                                                                <img src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-21.jpg" class="img-fluid" alt="img">
+                                                                <img src="" class="img-fluid" alt="img">
                                                             </a>
                                                             <div class="ms-2">
                                                                 <h6 class="fw-medium"><a href="#">Sharon Roy</a></h6>
@@ -2183,7 +2183,7 @@
                         <i class="ti ti-x"></i>
                     </button>
                 </div>
-                <form action="https://smarthr.dreamstechnologies.com/laravel/template/public/pipeline">
+                <form action="">
                     <div class="modal-body pb-0">
                         <div class="row">
                             <div class="col-md-12">
@@ -2258,7 +2258,7 @@
                                                     <div class="d-flex align-items-center justify-content-between">
                                                         <div class="d-flex align-items-center file-name-icon">
                                                             <a href="#" class="avatar avatar-md border avatar-rounded">
-                                                                <img src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-20.jpg" class="img-fluid" alt="img">
+                                                                <img src="" class="img-fluid" alt="img">
                                                             </a>
                                                             <div class="ms-2">
                                                                 <h6 class="fw-medium"><a href="#">Sharon Roy</a></h6>
@@ -2273,7 +2273,7 @@
                                                     <div class="d-flex align-items-center justify-content-between">
                                                         <div class="d-flex align-items-center file-name-icon">
                                                             <a href="#" class="avatar avatar-md border avatar-rounded">
-                                                                <img src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-21.jpg" class="img-fluid" alt="img">
+                                                                <img src="" class="img-fluid" alt="img">
                                                             </a>
                                                             <div class="ms-2">
                                                                 <h6 class="fw-medium"><a href="#">Sharon Roy</a></h6>
@@ -2311,7 +2311,7 @@
                         <i class="ti ti-x"></i>
                     </button>
                 </div>
-                <form action="https://smarthr.dreamstechnologies.com/laravel/template/public/pipeline">
+                <form action="">
                     <div class="modal-body pb-0">
                         <div class="row">
                             <div class="col-md-12">
@@ -2334,7 +2334,7 @@
                                                 </div>
                                                 <div class="d-flex align-items-center file-name-icon">
                                                     <a href="#" class="avatar avatar-md border avatar-rounded">
-                                                        <img src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-19.jpg" class="img-fluid" alt="img">
+                                                        <img src="" class="img-fluid" alt="img">
                                                     </a>
                                                     <div class="ms-2">
                                                         <h6 class="fw-medium fs-12"><a href="#">Darlee Robertson</a></h6>
@@ -2348,7 +2348,7 @@
                                                 </div>
                                                 <div class="d-flex align-items-center file-name-icon">
                                                     <a href="#" class="avatar avatar-md border avatar-rounded">
-                                                        <img src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-20.jpg" class="img-fluid" alt="img">
+                                                        <img src="" class="img-fluid" alt="img">
                                                     </a>
                                                     <div class="ms-2">
                                                         <h6 class="fw-medium fs-12"><a href="#">Sharon Roy</a></h6>
@@ -2362,7 +2362,7 @@
                                                 </div>
                                                 <div class="d-flex align-items-center file-name-icon">
                                                     <a href="#" class="avatar avatar-md border avatar-rounded">
-                                                        <img src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-21.jpg" class="img-fluid" alt="img">
+                                                        <img src="" class="img-fluid" alt="img">
                                                     </a>
                                                     <div class="ms-2">
                                                         <h6 class="fw-medium fs-12"><a href="#">Vaughan Lewis</a></h6>
@@ -2376,7 +2376,7 @@
                                                 </div>
                                                 <div class="d-flex align-items-center file-name-icon">
                                                     <a href="#" class="avatar avatar-md border avatar-rounded">
-                                                        <img src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/users/user-33.jpg" class="img-fluid" alt="img">
+                                                        <img src="" class="img-fluid" alt="img">
                                                     </a>
                                                     <div class="ms-2">
                                                         <h6 class="fw-medium fs-12"><a href="#">Jessica Louise</a></h6>
@@ -2390,7 +2390,7 @@
                                                 </div>
                                                 <div class="d-flex align-items-center file-name-icon">
                                                     <a href="#" class="avatar avatar-md border avatar-rounded">
-                                                        <img src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/users/user-34.jpg" class="img-fluid" alt="img">
+                                                        <img src="" class="img-fluid" alt="img">
                                                     </a>
                                                     <div class="ms-2">
                                                         <h6 class="fw-medium fs-12"><a href="#">Test Engineer</a></h6>
@@ -2425,7 +2425,7 @@
                         <i class="ti ti-x"></i>
                     </button>
                 </div>
-                <form action="https://smarthr.dreamstechnologies.com/laravel/template/public/pipeline">
+                <form action="">
                     <div class="modal-body pb-0">
                         <div class="row">
                             <div class="col-md-12">
@@ -2456,7 +2456,7 @@
                         <i class="ti ti-x"></i>
                     </button>
                 </div>
-                <form action="https://smarthr.dreamstechnologies.com/laravel/template/public/pipeline">
+                <form action="">
                     <div class="modal-body pb-0">
                         <div class="row">
                             <div class="col-md-12">
@@ -2487,7 +2487,7 @@
                         <i class="ti ti-x"></i>
                     </button>
                 </div>
-                <form action="https://smarthr.dreamstechnologies.com/laravel/template/public/contacts">
+                <form action="">
                     <div class="contact-grids-tab">
                         <ul class="nav nav-underline" id="myTab3" role="tablist">
                             <li class="nav-item" role="presentation">
@@ -2512,7 +2512,7 @@
                                         <div class="col-md-12">
                                             <div class="d-flex align-items-center flex-wrap row-gap-3 bg-light w-100 rounded p-3 mb-4">                                                
                                                 <div class="d-flex align-items-center justify-content-center avatar avatar-xxl rounded-circle border border-dashed me-2 flex-shrink-0 text-dark frames">
-                                                    <img src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-30.jpg" alt="img" class="rounded-circle">
+                                                    <img src="" alt="img" class="rounded-circle">
                                                 </div>                                              
                                                 <div class="profile-upload">
                                                     <div class="mb-2">
@@ -2810,7 +2810,7 @@
                                         <input class="form-check-input me-1" type="checkbox" value="" id="user-6">
                                         <div class="d-flex align-items-center file-name-icon">
                                             <a href="#" class="avatar avatar-md border avatar-rounded">
-                                                <img src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/reports/user-01.jpg" class="img-fluid" alt="img">
+                                                <img src="" class="img-fluid" alt="img">
                                             </a>
                                             <div class="ms-2">
                                                 <h6 class="fw-normal"><a href="#">Michael Walker</a></h6>
@@ -2821,7 +2821,7 @@
                                         <input class="form-check-input me-1" type="checkbox" value="" id="user-7">
                                         <div class="d-flex align-items-center file-name-icon">
                                             <a href="#" class="avatar avatar-md border avatar-rounded">
-                                                <img src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/reports/user-02.jpg" class="img-fluid" alt="img">
+                                                <img src="" class="img-fluid" alt="img">
                                             </a>
                                             <div class="ms-2">
                                                 <h6 class="fw-normal"><a href="#">Sophie Headrick</a></h6>
@@ -2832,7 +2832,7 @@
                                         <input class="form-check-input me-1" type="checkbox" value="" id="user-8">
                                         <div class="d-flex align-items-center file-name-icon">
                                             <a href="#" class="avatar avatar-md border avatar-rounded">
-                                                <img src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/reports/user-03.jpg" class="img-fluid" alt="img">
+                                                <img src="" class="img-fluid" alt="img">
                                             </a>
                                             <div class="ms-2">
                                                 <h6 class="fw-normal"><a href="#">Cameron Drake</a></h6>
@@ -2843,7 +2843,7 @@
                                         <input class="form-check-input me-1" type="checkbox" value="" id="user-9">
                                         <div class="d-flex align-items-center file-name-icon">
                                             <a href="#" class="avatar avatar-md border avatar-rounded">
-                                                <img src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/reports/user-04.jpg" class="img-fluid" alt="img">
+                                                <img src="" class="img-fluid" alt="img">
                                             </a>
                                             <div class="ms-2">
                                                 <h6 class="fw-normal"><a href="#">Doris Crowley</a></h6>
@@ -2854,7 +2854,7 @@
                                         <input class="form-check-input me-1" type="checkbox" value="" id="user-10">
                                         <div class="d-flex align-items-center file-name-icon">
                                             <a href="#" class="avatar avatar-md border avatar-rounded">
-                                                <img src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/profiles/avatar-12.jpg" class="img-fluid" alt="img">
+                                                <img src="" class="img-fluid" alt="img">
                                             </a>
                                             <div class="ms-2">
                                                 <h6 class="fw-normal"><a href="#">Thomas Bordelon</a></h6>
@@ -2895,18 +2895,18 @@
                         <div class="row">
                             <div class="col-md-12">
                                 <div class="d-flex flex-column align-items-center justify-content-center mb-3">
-                                    <img src="https://smarthr.dreamstechnologies.com/laravel/template/public/build/img/reports-img/check-icon.svg" alt="icon" class="mb-3">
+                                    <img src="" alt="icon" class="mb-3">
                                     <h5>Company Added Successfully</h5>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="mb-3">
-                                    <a href="https://smarthr.dreamstechnologies.com/laravel/template/public/companies-crm" class="btn btn-dark d-flex justify-content-center ">Back to List</a>
+                                    <a href="" class="btn btn-dark d-flex justify-content-center ">Back to List</a>
                                 </div>								
                             </div>
                             <div class="col-md-6">
                                 <div class="mb-3">
-                                    <a href="https://smarthr.dreamstechnologies.com/laravel/template/public/company-details" class="btn btn-primary bg-primary-gradient d-flex justify-content-center ">Detail Page</a>		
+                                    <a href="" class="btn btn-primary bg-primary-gradient d-flex justify-content-center ">Detail Page</a>		
                                 </div>				
                             </div>
                         </div>
@@ -2929,7 +2929,7 @@
                     <p class="mb-3">You want to delete all the marked items, this cant be undone once you delete.</p>
                     <div class="d-flex justify-content-center">
                         <a href="javascript:void(0);" class="btn btn-light me-3" data-bs-dismiss="modal">Cancel</a>
-                        <a href="https://smarthr.dreamstechnologies.com/laravel/template/public/companies-crm" class="btn btn-danger">Yes, Delete</a>
+                        <a href="" class="btn btn-danger">Yes, Delete</a>
                     </div>
                 </div>
             </div>

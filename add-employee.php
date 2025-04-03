@@ -8,11 +8,11 @@
     <meta name="keywords" content="">
     <meta name="author" content="">
     <meta name="robots" content="">
-<<<<<<< HEAD
+
     <title>Admin Area | Add Employee</title>
-=======
+
     <title>Astrik Admin Area | Add Employee</title>
->>>>>>> b95be704cb433402889e008fcb8b797063daba90
+
 
     <?php include 'includes/style.php'; ?>
     Performance

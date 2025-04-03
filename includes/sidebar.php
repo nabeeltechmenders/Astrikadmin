@@ -85,6 +85,7 @@
                      <li><a href="add-department.php"><i class="fa-regular fa-building"></i><span>Add Department</span></a></li>
                     <li><a href="add-designations.php"><i class="fa-solid fa-user"></i><span>Add Designations</span></a></li>
                     <li><a href="add-policy.php"><i class="fa-solid fa-book"></i><span>Add Policy</span></a></li>
+                    <li><a href="add-company.php"><i class="fa-solid fa-book"></i><span>Add Company</span></a></li>
                     <!-- <li><a href="team-leaves.php"><i class="ti ti-beach"></i><span>Team Leaves</span></a></li>
                     <li><a href="team-payroll.php"><i class="ti ti-brand-mastercard"></i><span>Team Payroll</span></a></li>
                     <li><a href="termination.php"><i class="ti ti-ban"></i><span>Termination</span></a></li>
