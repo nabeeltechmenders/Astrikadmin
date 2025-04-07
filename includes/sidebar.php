@@ -102,7 +102,7 @@
                                 <li><a href="group-company-setup.php" class="">Group Company Setup</a></li>
                                 <li><a href="sister-company-setup.php" class="">Sister Company Setup</a></li>
                                 <li><a href="sister-concerned-company.php" class="">Sister concerned company</a></li>
-                                <li><a href="add-company-setup.php" class="">Add company setup</a></li>
+                                <li><a href="add-sister-company.php" class="">Add sister companies</a></li>
                                 
                             </ul>
                     </li>

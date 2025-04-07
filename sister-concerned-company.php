@@ -49,7 +49,7 @@
                             <a href="" class="btn btn-icon btn-sm active bg-primary text-white"><i class="ti ti-layout-grid"></i></a>
                         </div>
                     </div> -->
-                    <div class="me-2 mb-2">
+                    <!-- <div class="me-2 mb-2">
                         <div class="dropdown">
                             <a href="javascript:void(0);" class="dropdown-toggle btn btn-white d-inline-flex align-items-center" data-bs-toggle="dropdown">
                                 <i class="ti ti-file-export me-1"></i>Export
@@ -63,7 +63,7 @@
                                 </li>
                             </ul>
                         </div>
-                    </div>
+                    </div> -->
                     <div class="mb-2">
                         <a href="#" data-bs-toggle="modal" data-bs-target="#add_company" class="btn btn-primary d-flex align-items-center"><i class="ti ti-circle-plus me-2"></i>Add Company</a>
                     </div>

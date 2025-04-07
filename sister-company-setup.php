@@ -43,7 +43,7 @@
                     </nav>
                 </div>
                 <div class="d-flex my-xl-auto right-content align-items-center flex-wrap ">
-                    <div class="me-2 mb-2">
+                    <!-- <div class="me-2 mb-2">
                         <div class="d-flex align-items-center border bg-white rounded p-1 me-2 icon-list">
                             <a href="/companies-crm" class="btn btn-icon btn-sm active bg-primary text-white me-1"><i class="ti ti-list-tree"></i></a>
                             <a href="/companies-grid" class="btn btn-icon btn-sm"><i class="ti ti-layout-grid"></i></a>
@@ -63,7 +63,7 @@
                                 </li>
                             </ul>
                         </div>
-                    </div>
+                    </div> -->
                     <div class="mb-2">
                         <a href="#" data-bs-toggle="modal" data-bs-target="#add_company" class="btn btn-primary d-flex align-items-center"><i class="ti ti-circle-plus me-2"></i>Add Company</a>
                     </div>
