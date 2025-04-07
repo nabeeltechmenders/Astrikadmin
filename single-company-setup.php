@@ -8,7 +8,7 @@
     <meta name="keywords" content="">
     <meta name="author" content="">
     <meta name="robots" content="">
-    <title>Admin Area | Group Company Setup</title>
+    <title>Admin Area | Single Company Setup</title>
 
     <?php include 'includes/style.php'; ?>
     Performance
@@ -38,7 +38,7 @@
                                 <li class="breadcrumb-item">
                                     Adminstration
                                 </li>
-                                <li class="breadcrumb-item active" aria-current="page">Group company setup</li>
+                                <li class="breadcrumb-item active" aria-current="page">Single company setup</li>
                             </ol>
                         </nav>
                     </div>
@@ -81,7 +81,7 @@
                 <div class="card">
                     <div class="card-header">
                         <div class="card-title">
-                            Group company setup
+                            Single company setup
                         </div>
                     </div>
 
@@ -220,15 +220,6 @@
                             </div>
 
 
-                            <div class="col-lg-6 mb-2">
-                                <div class="mb-3 row align-items-center">
-                                    <label class="form-label text-wrap col-md-2">Registeration/<br> Tax Document</label>
-                                    <div class="col-md-10">
-                                        <input type="file" class="form-control" placeholder="">
-                                    </div>
-                                </div>
-                            </div>
-
                         </div>
 
 
@@ -237,7 +228,7 @@
 
 
                         <div class="row mt-4">
-                            <span class="fs-18 fw-bold text-dark mb-4">Head office address</span>
+                            <span class="fs-18 fw-bold text-dark mb-4">Head office adress</span>
 
                             <div class="col-lg-12 mb-2">
                                 <div class="mb-3 row align-items-center">
@@ -256,10 +247,10 @@
                                     <label class="form-label text-wrap col-md-2">City</label>
                                     <div class="col-md-10">
                                         <select class="form-select">
-                                            <option></option>
-                                            <option></option>
-                                            <option></option>
-                                            <option></option>
+                                            <option>1</option>
+                                            <option>2</option>
+                                            <option>3</option>
+                                            <option>4</option>
                                         </select>
                                     </div>
                                 </div>
@@ -379,7 +370,7 @@
                                 <div class="mb-3 row align-items-center">
                                     <label class="form-label text-wrap col-md-2">Ownership%</label>
                                     <div class="col-md-10">
-                                        <input type="number" class="form-control" placeholder="">
+                                        <input type="text" class="form-control" placeholder="">
                                     </div>
                                 </div>
                             </div>
@@ -390,10 +381,10 @@
                                     <label class="form-label text-wrap col-md-2">Role in the company</label>
                                     <div class="col-md-10">
                                         <select class="form-select">
-                                            <option>Inverstor</option>
-                                            <option></option>
-                                            <option></option>
-                                            <option></option>
+                                            <option>1</option>
+                                            <option>2</option>
+                                            <option>3</option>
+                                            <option>4</option>
                                         </select>
                                     </div>
                                 </div>
@@ -405,6 +396,129 @@
                         </div>
 
 
+
+                        <div class="card-header"> </div>
+
+
+                        <div class="row mt-4">
+                            <span class="fs-18 fw-bold text-dark mb-4">Group Branches</span>
+
+
+                            <div class="col-lg-6 mb-2">
+                                <div class="mb-3 row align-items-center">
+                                    <label class="form-label text-wrap col-md-2">Branch name</label>
+                                    <div class="col-md-10">
+                                        <input type="text" class="form-control" placeholder="">
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <div class="col-lg-6 mb-2">
+                                <div class="mb-3 row align-items-center">
+                                    <label class="form-label text-wrap col-md-2">Branch code</label>
+                                    <div class="col-md-10">
+                                        <input type="text" class="form-control" placeholder="">
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-lg-12 mb-2">
+                                <div class="mb-3 row align-items-center">
+                                    <label class="form-label text-wrap col-md-1">Address</label>
+                                    <div class="col-md-11">
+                                        <textarea type="text" class="form-control" placeholder=""></textarea>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-lg-6 mb-2">
+                                <div class="mb-3 row align-items-center">
+                                    <label class="form-label text-wrap col-md-2">City</label>
+                                    <div class="col-md-10">
+                                        <select class="form-select">
+                                            <option>1</option>
+                                            <option>2</option>
+                                            <option>3</option>
+                                            <option>4</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <div class="col-lg-6 mb-2">
+                                <div class="mb-3 row align-items-center">
+                                    <label class="form-label text-wrap col-md-2">State</label>
+                                    <div class="col-md-10">
+                                        <select class="form-select">
+                                            <option>1</option>
+                                            <option>2</option>
+                                            <option>3</option>
+                                            <option>4</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-lg-6 mb-2">
+                                <div class="mb-3 row align-items-center">
+                                    <label class="form-label text-wrap col-md-2">Country</label>
+                                    <div class="col-md-10">
+                                        <select class="form-select">
+                                            <option>1</option>
+                                            <option>2</option>
+                                            <option>3</option>
+                                            <option>4</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-lg-6 mb-2">
+                                <div class="mb-3 row align-items-center">
+                                    <label class="form-label text-wrap col-md-2">Postal Code</label>
+                                    <div class="col-md-10">
+                                        <input type="number" class="form-control" placeholder=""></input>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <div class="col-lg-6 mb-2">
+                                <div class="mb-3 row align-items-center">
+                                    <label class="form-label text-wrap col-md-2">Phone number</label>
+                                    <div class="col-md-10">
+                                        <input type="number" class="form-control" placeholder=""></input>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-lg-6 mb-2">
+                                <div class="mb-3 row align-items-center">
+                                    <label class="form-label text-wrap col-md-2">Assign branch manager</label>
+                                    <div class="col-md-10">
+                                        <input type="text" class="form-control" placeholder=""></input>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <div class="col-lg-6 mb-2">
+                                <div class="mb-3 row align-items-center">
+                                    <label class="form-label text-wrap col-md-2">Add Departments</label>
+                                    <div class="col-md-10">
+                                        <a href="#" class="text-primary"><i class="fa-solid fa-plus"></i> Add Departments </a>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <div class="col-lg-12 mb-2">
+                                <a href="#" class="btn btn-primary ">Add more branches</a>
+                            </div>
+
+                        </div>
 
                         <div class="card-header"> </div>
 
@@ -443,6 +557,173 @@
                             </div>
 
                         </div>
+
+
+                        <div class="card-header"> </div>
+
+
+                        <div class="row mt-4">
+                            <span class="fs-18 fw-bold text-dark mb-4"> Admin</span>
+
+
+                            <div class="col-lg-6 mb-2">
+                                <div class="mb-3 row align-items-center">
+                                    <label class="form-label text-wrap col-md-2">Secondary Admin Name </label>
+                                    <div class="col-md-10">
+                                        <input type="text" class="form-control" placeholder="">
+                                    </div>
+                                </div>
+                            </div>
+
+
+
+                            <div class="col-lg-6 mb-2">
+                                <div class="mb-3 row align-items-center">
+                                    <label class="form-label text-wrap col-md-2">Secondary Admin Email </label>
+                                    <div class="col-md-10">
+                                        <input type="email" class="form-control" placeholder="">
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <div class="col-lg-6 mb-2">
+                                <div class="mb-3 row align-items-center">
+                                    <label class="form-label text-wrap col-md-2">Secondary Admin Contact No. </label>
+                                    <div class="col-md-10">
+                                        <input type="number" class="form-control" placeholder="">
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <div class="col-lg-6 mb-2">
+                                <div class="mb-3 row align-items-center">
+                                    <label class="form-label text-wrap col-md-2">Limited Permission level</label>
+                                    <div class="col-md-10">
+                                        <select class="form-select">
+                                            <option>Yes</option>
+                                            <option>No</option>
+
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <span class="fs-16 fw-bold text-dark py-3">Limited Access Settings (Permissions)</span>
+
+                            <div class="col-lg-6 mb-2">
+                                <div class="mb-3 row align-items-center">
+                                    <label class="form-label text-wrap col-md-3">Employee Management</label>
+                                    <div class="col-md-9">
+                                        <div class="radio">
+                                            <label>
+                                                <input type="radio" name="radio"> Can Add Employees
+                                            </label>
+                                        </div>
+                                        <div class="radio">
+                                            <label>
+                                                <input type="radio" name="radio"> Can Edit Employee Details
+                                            </label>
+                                        </div>
+                                        <div class="radio">
+                                            <label>
+                                                <input type="radio" name="radio"> Can Remove Employees
+                                            </label>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+
+                            <div class="col-lg-6 mb-2">
+                                <div class="mb-3 row align-items-center">
+                                    <label class="form-label text-wrap col-md-3">Payroll & Salary Management</label>
+                                    <div class="col-md-9">
+                                        <div class="radio">
+                                            <label>
+                                                <input type="radio" name="radio"> Can View Payroll
+                                            </label>
+                                        </div>
+                                        <div class="radio">
+                                            <label>
+                                                <input type="radio" name="radio"> Can Process Salaries
+                                            </label>
+                                        </div>
+                                        <div class="radio">
+                                            <label>
+                                                <input type="radio" name="radio"> Can Edit Salary Structures
+                                            </label>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+
+                            <div class="col-lg-6 mb-2">
+                                <div class="mb-3 row align-items-center">
+                                    <label class="form-label text-wrap col-md-3">Leaves & Attendance</label>
+                                    <div class="col-md-9">
+                                        <div class="radio">
+                                            <label>
+                                                <input type="radio" name="radio"> Can Approve/Reject Leave Requests
+                                            </label>
+                                        </div>
+                                        <div class="radio">
+                                            <label>
+                                                <input type="radio" name="radio"> Can Modify Attendance Records
+                                            </label>
+                                        </div>
+                                     
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <div class="col-lg-6 mb-2">
+                                <div class="mb-3 row align-items-center">
+                                    <label class="form-label text-wrap col-md-3">Company Policies & Settings</label>
+                                    <div class="col-md-9">
+                                        <div class="radio">
+                                            <label>
+                                                <input type="radio" name="radio"> Can Edit Leave & Attendance Policies
+                                            </label>
+                                        </div>
+                                        <div class="radio">
+                                            <label>
+                                                <input type="radio" name="radio">Can Modify Work Shifts
+                                            </label>
+                                        </div>
+                                       
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <div class="col-lg-6 mb-2">
+                                <div class="mb-3 row align-items-center">
+                                    <label class="form-label text-wrap col-md-3">User Access & Roles</label>
+                                    <div class="col-md-9">
+                                        <div class="radio">
+                                            <label>
+                                                <input type="radio" name="radio"> Can Add/Remove Other Admins
+                                            </label>
+                                        </div>
+                                        <div class="radio">
+                                            <label>
+                                                <input type="radio" name="radio">Can Change Employee Access Levels
+                                            </label>
+                                        </div>
+                                       
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+
+
                         <div class="card-header mb-4"> </div>
 
                         <div class="d-flex justify-content-end ">

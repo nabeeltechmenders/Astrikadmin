@@ -8,7 +8,7 @@
     <meta name="keywords" content="">
     <meta name="author" content="">
     <meta name="robots" content="">
-    <title>Admin Area | Group Company Setup</title>
+    <title>Admin Area | Add Company Setup</title>
 
     <?php include 'includes/style.php'; ?>
     Performance
@@ -38,7 +38,7 @@
                                 <li class="breadcrumb-item">
                                     Adminstration
                                 </li>
-                                <li class="breadcrumb-item active" aria-current="page">Group company setup</li>
+                                <li class="breadcrumb-item active" aria-current="page"> Add company setup</li>
                             </ol>
                         </nav>
                     </div>
@@ -81,11 +81,30 @@
                 <div class="card">
                     <div class="card-header">
                         <div class="card-title">
-                            Group company setup
+                        No of Sister Companies
                         </div>
                     </div>
 
                     <div class="card-body">
+                          
+                        <div class="row">
+                        <div class="col-lg-12 mb-2">
+                                <div class="mb-3 row align-items-center">
+                                    <label class="form-label text-wrap col-md-2">No of sister concerned companies</label>
+                                    <div class="col-md-10">
+                                        <select class="form-select">
+                                            <option></option>
+                                            <option></option>
+                                            <option></option>
+                                            <option></option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <label class="form-label text-wrap col-md-2">Sister company 1 </label>
                         <div class="row">
                             <span class="fs-18 fw-bold text-dark mb-4">Basic information</span>
 
@@ -113,17 +132,11 @@
                                 </div>
                             </div>
 
-
                             <div class="col-lg-6 mb-2">
                                 <div class="mb-3 row align-items-center">
-                                    <label class="form-label text-wrap col-md-2">Business Type</label>
+                                    <label class="form-label text-wrap col-md-2">Company Logo</label>
                                     <div class="col-md-10">
-                                        <select class="form-select">
-                                            <option>1</option>
-                                            <option>2</option>
-                                            <option></option>
-                                            <option></option>
-                                        </select>
+                                        <input type="file" class="form-control" placeholder="">
                                     </div>
                                 </div>
                             </div>
@@ -131,9 +144,9 @@
 
                             <div class="col-lg-6 mb-2">
                                 <div class="mb-3 row align-items-center">
-                                    <label class="form-label text-wrap col-md-2">Company Logo</label>
+                                    <label class="form-label text-wrap col-md-2">Website</label>
                                     <div class="col-md-10">
-                                        <input type="file" class="form-control" placeholder="">
+                                        <input type="text" class="form-control" placeholder="">
                                     </div>
                                 </div>
                             </div>
@@ -147,18 +160,16 @@
                                 </div>
                             </div>
 
-
-
                             <div class="col-lg-6 mb-2">
                                 <div class="mb-3 row align-items-center">
-                                    <label class="form-label text-wrap col-md-2">Website</label>
+                                    <label class="form-label text-wrap col-md-2">Phone Number</label>
                                     <div class="col-md-10">
-                                        <input type="text" class="form-control" placeholder="">
+                                        <input type="number" class="form-control" placeholder="">
                                     </div>
                                 </div>
                             </div>
 
-
+                        
                             <div class="col-lg-6 mb-2">
                                 <div class="mb-3 row align-items-center">
                                     <label class="form-label text-wrap col-md-2">Email</label>
@@ -169,24 +180,67 @@
                             </div>
 
 
+                          
+
+                        </div>
+
+
+                      
+
+
+
+
+
+                        <div class="card-header"> </div>
+
+
+                        <div class="row mt-4">
+                            <span class="fs-18 fw-bold text-dark mb-4">Owners & Partners Information</span>
                             <div class="col-lg-6 mb-2">
                                 <div class="mb-3 row align-items-center">
-                                    <label class="form-label text-wrap col-md-2">Phone Number</label>
+                                    <label class="form-label text-wrap col-md-2">Ownership type</label>
+                                    <div class="col-md-10">
+                                        <select class="form-select">
+                                            <option>1</option>
+                                            <option>2</option>
+                                            <option>3</option>
+                                            <option>4</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <div class="col-lg-6 mb-2">
+                                <div class="mb-3 row align-items-center">
+                                    <label class="form-label text-wrap col-md-2">Owner name</label>
+                                    <div class="col-md-10">
+                                        <input type="text" class="form-control" placeholder="">
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-lg-6 mb-2">
+                                <div class="mb-3 row align-items-center">
+                                    <label class="form-label text-wrap col-md-2">Phone number</label>
                                     <div class="col-md-10">
                                         <input type="number" class="form-control" placeholder="">
                                     </div>
                                 </div>
                             </div>
 
-                        </div>
-
-
-                        <div class="row mt-4">
-                            <span class="fs-18 fw-bold text-dark mb-4">Business & Legal Details</span>
+                            <div class="col-lg-6 mb-2">
+                                <div class="mb-3 row align-items-center">
+                                    <label class="form-label text-wrap col-md-2">Email</label>
+                                    <div class="col-md-10">
+                                        <input type="email" class="form-control" placeholder="">
+                                    </div>
+                                </div>
+                            </div>
 
                             <div class="col-lg-6 mb-2">
                                 <div class="mb-3 row align-items-center">
-                                    <label class="form-label text-wrap col-md-2">Company Registration No.</label>
+                                    <label class="form-label text-wrap col-md-2">Ownership%</label>
                                     <div class="col-md-10">
                                         <input type="text" class="form-control" placeholder="">
                                     </div>
@@ -194,50 +248,32 @@
                             </div>
 
 
-
-
                             <div class="col-lg-6 mb-2">
                                 <div class="mb-3 row align-items-center">
-                                    <label class="form-label text-wrap col-md-2">Currency References</label>
+                                    <label class="form-label text-wrap col-md-2">Role in the company</label>
                                     <div class="col-md-10">
                                         <select class="form-select">
                                             <option>1</option>
                                             <option>2</option>
-                                            <option></option>
-                                            <option></option>
+                                            <option>3</option>
+                                            <option>4</option>
                                         </select>
                                     </div>
                                 </div>
                             </div>
 
                             <div class="col-lg-6 mb-2">
-                                <div class="mb-3 row align-items-center">
-                                    <label class="form-label text-wrap col-md-2">Tax Identification No. (TIN) </label>
-                                    <div class="col-md-10">
-                                        <input type="number" class="form-control" placeholder="">
-                                    </div>
-                                </div>
+                                <a href="#" class="btn btn-primary ">Add Partners</a>
                             </div>
-
-
-                            <div class="col-lg-6 mb-2">
-                                <div class="mb-3 row align-items-center">
-                                    <label class="form-label text-wrap col-md-2">Registeration/<br> Tax Document</label>
-                                    <div class="col-md-10">
-                                        <input type="file" class="form-control" placeholder="">
-                                    </div>
-                                </div>
-                            </div>
-
                         </div>
+
 
 
                         <div class="card-header"> </div>
 
-
-
+                        
                         <div class="row mt-4">
-                            <span class="fs-18 fw-bold text-dark mb-4">Head office address</span>
+                            <span class="fs-18 fw-bold text-dark mb-4">Head office adress</span>
 
                             <div class="col-lg-12 mb-2">
                                 <div class="mb-3 row align-items-center">
@@ -256,10 +292,10 @@
                                     <label class="form-label text-wrap col-md-2">City</label>
                                     <div class="col-md-10">
                                         <select class="form-select">
-                                            <option></option>
-                                            <option></option>
-                                            <option></option>
-                                            <option></option>
+                                            <option>1</option>
+                                            <option>2</option>
+                                            <option>3</option>
+                                            <option>4</option>
                                         </select>
                                     </div>
                                 </div>
@@ -327,21 +363,62 @@
                         </div>
 
 
-
                         <div class="card-header"> </div>
 
 
                         <div class="row mt-4">
-                            <span class="fs-18 fw-bold text-dark mb-4">Owners & Partners Information</span>
+                            <span class="fs-18 fw-bold text-dark mb-4">Branches</span>
+
                             <div class="col-lg-6 mb-2">
                                 <div class="mb-3 row align-items-center">
-                                    <label class="form-label text-wrap col-md-2">Ownership type</label>
+                                    <label class="form-label text-wrap col-md-2">Does this company have multiple branches?</label>
+                                    <div class="col-md-10">
+                                      <div class="form-check form-switch">
+                                    <input class="form-check-input" type="checkbox" role="switch" id="switchCheckChecked" checked>
+                                    <label class="form-check-label" for="switchCheckChecked">Checked switch checkbox input</label>
+                                    </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+
+                            <div class="col-lg-6 mb-2">
+                                <div class="mb-3 row align-items-center">
+                                    <label class="form-label text-wrap col-md-2">Branch name</label>
+                                    <div class="col-md-10">
+                                        <input type="text" class="form-control" placeholder="">
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <div class="col-lg-6 mb-2">
+                                <div class="mb-3 row align-items-center">
+                                    <label class="form-label text-wrap col-md-2">Branch code</label>
+                                    <div class="col-md-10">
+                                        <input type="text" class="form-control" placeholder="">
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-lg-12 mb-2">
+                                <div class="mb-3 row align-items-center">
+                                    <label class="form-label text-wrap col-md-1">Address</label>
+                                    <div class="col-md-11">
+                                        <textarea type="text" class="form-control" placeholder=""></textarea>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-lg-6 mb-2">
+                                <div class="mb-3 row align-items-center">
+                                    <label class="form-label text-wrap col-md-2">City</label>
                                     <div class="col-md-10">
                                         <select class="form-select">
-                                            <option>1</option>
-                                            <option>2</option>
-                                            <option>3</option>
-                                            <option>4</option>
+                                            <option></option>
+                                            <option></option>
+                                            <option></option>
+                                            <option></option>
                                         </select>
                                     </div>
                                 </div>
@@ -350,99 +427,80 @@
 
                             <div class="col-lg-6 mb-2">
                                 <div class="mb-3 row align-items-center">
-                                    <label class="form-label text-wrap col-md-2">Owner name</label>
+                                    <label class="form-label text-wrap col-md-2">State</label>
                                     <div class="col-md-10">
-                                        <input type="text" class="form-control" placeholder="">
+                                        <select class="form-select">
+                                        <option></option>
+                                            <option></option>
+                                            <option></option>
+                                            <option></option>
+                                        </select>
                                     </div>
                                 </div>
                             </div>
+
+                            <div class="col-lg-6 mb-2">
+                                <div class="mb-3 row align-items-center">
+                                    <label class="form-label text-wrap col-md-2">Country</label>
+                                    <div class="col-md-10">
+                                        <select class="form-select">
+                                        <option></option>
+                                            <option></option>
+                                            <option></option>
+                                            <option></option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-lg-6 mb-2">
+                                <div class="mb-3 row align-items-center">
+                                    <label class="form-label text-wrap col-md-2">Postal Code</label>
+                                    <div class="col-md-10">
+                                        <input type="number" class="form-control" placeholder=""></input>
+                                    </div>
+                                </div>
+                            </div>
+
 
                             <div class="col-lg-6 mb-2">
                                 <div class="mb-3 row align-items-center">
                                     <label class="form-label text-wrap col-md-2">Phone number</label>
                                     <div class="col-md-10">
-                                        <input type="number" class="form-control" placeholder="">
+                                        <input type="number" class="form-control" placeholder=""></input>
                                     </div>
                                 </div>
                             </div>
 
-                            <div class="col-lg-6 mb-2">
-                                <div class="mb-3 row align-items-center">
-                                    <label class="form-label text-wrap col-md-2">Email</label>
-                                    <div class="col-md-10">
-                                        <input type="email" class="form-control" placeholder="">
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="col-lg-6 mb-2">
-                                <div class="mb-3 row align-items-center">
-                                    <label class="form-label text-wrap col-md-2">Ownership%</label>
-                                    <div class="col-md-10">
-                                        <input type="number" class="form-control" placeholder="">
-                                    </div>
-                                </div>
-                            </div>
+                          
 
 
                             <div class="col-lg-6 mb-2">
                                 <div class="mb-3 row align-items-center">
-                                    <label class="form-label text-wrap col-md-2">Role in the company</label>
+                                    <label class="form-label text-wrap col-md-2">Add Departments</label>
                                     <div class="col-md-10">
-                                        <select class="form-select">
-                                            <option>Inverstor</option>
-                                            <option></option>
-                                            <option></option>
-                                            <option></option>
-                                        </select>
+                                        <a href="#" class="text-primary"><i class="fa-solid fa-plus"></i> Add Departments </a>
                                     </div>
                                 </div>
                             </div>
 
-                            <div class="col-lg-6 mb-2">
-                                <a href="#" class="btn btn-primary ">Add Partners</a>
+
+                            <div class="col-lg-12 mb-2">
+                                <a href="#" class="btn btn-primary ">Add more branches</a>
                             </div>
+
                         </div>
-
-
 
                         <div class="card-header"> </div>
 
 
-                        <div class="row mt-4">
-                            <span class="fs-18 fw-bold text-dark mb-4">Super Admin</span>
+                     
+
+                        
 
 
-                            <div class="col-lg-6 mb-2">
-                                <div class="mb-3 row align-items-center">
-                                    <label class="form-label text-wrap col-md-2">Primary Super Admin Name </label>
-                                    <div class="col-md-10">
-                                        <input type="text" class="form-control" placeholder="">
-                                    </div>
-                                </div>
-                            </div>
+                      
 
-
-
-                            <div class="col-lg-6 mb-2">
-                                <div class="mb-3 row align-items-center">
-                                    <label class="form-label text-wrap col-md-2">Primary Super Admin Email </label>
-                                    <div class="col-md-10">
-                                        <input type="email" class="form-control" placeholder="">
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="col-lg-6 mb-2">
-                                <div class="mb-3 row align-items-center">
-                                    <label class="form-label text-wrap col-md-2">Primary Super Admin No. </label>
-                                    <div class="col-md-10">
-                                        <input type="number" class="form-control" placeholder="">
-                                    </div>
-                                </div>
-                            </div>
-
-                        </div>
                         <div class="card-header mb-4"> </div>
 
                         <div class="d-flex justify-content-end ">

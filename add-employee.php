@@ -480,11 +480,11 @@
                                       
                                     </div>
 
-                                    <!-- <div class="row justify-content-end mt-3">
+                                    <div class="row justify-content-end mt-4">
                                         <div class="col-lg-2 text-end">
                                             <button type="button" class="btn btn-primary">Next</button>
                                         </div>
-                                    </div> -->
+                                    </div>
                                 </div>
                                 <!--TAB ONE END-->
 
@@ -578,6 +578,12 @@
                                         </div>
                                     </div>
 
+                                    <div class="row justify-content-end mt-4">
+                                        <div class="col-lg-2 text-end">
+                                            <button type="button" class="btn btn-primary">Next</button>
+                                        </div>
+                                    </div>
+
                                 </div>
                                 <!--TAB Two End-->
 
@@ -658,6 +664,11 @@
                                         </div>
                                     
                                     </div>
+                                    <div class="row justify-content-end mt-4">
+                                        <div class="col-lg-2 text-end">
+                                            <button type="button" class="btn btn-primary">Next</button>
+                                        </div>
+                                    </div>
                                 </div>
                                 <!--TAB End Start-->
 
@@ -714,6 +725,12 @@
                                             <input type="text" class="form-control" placeholder="Password">
                                         </div>
                                     </div>
+
+                                    <div class="row justify-content-end mt-4">
+                                        <div class="col-lg-2 text-end">
+                                            <button type="button" class="btn btn-primary">Next</button>
+                                        </div>
+                                    </div>
                                 </div>
                                 <!--TAB Four End-->
 
@@ -744,6 +761,11 @@
                                         </div>
                                       
                                     </div>
+                                    <div class="row justify-content-end mt-4">
+                                        <div class="col-lg-2 text-end">
+                                            <button type="button" class="btn btn-primary">Next</button>
+                                        </div>
+                                    </div>
                                    
                                 </div>
                                 <!--TAB Five End-->
@@ -763,6 +785,11 @@
                                         <textarea  class="form-control h-100" placeholder="Employee Notes/Remarks "></textarea>
                                     </div>
                                     
+                                    </div>
+                                    <div class="row justify-content-end mt-4">
+                                        <div class="col-lg-2 text-end">
+                                            <button type="button" class="btn btn-primary">Submit</button>
+                                        </div>
                                     </div>
                                
                                 </div>

@@ -7831,7 +7831,7 @@ hr.text-danger {
   border-bottom-color: rgba(var(--teal-rgb), 0.1);
 }
 
-.form-control {
+/* .form-control {
   border-color: #E5E7EB;
   color: #111827;
   background-color: #ffffff;
@@ -7846,7 +7846,8 @@ hr.text-danger {
 .form-control:focus {
   box-shadow: none;
   border-color: #E5E7EB;
-}
+  padding: 0.5rem 0.625rem;
+} */
 
 textarea {
   resize: none;
@@ -8112,6 +8113,7 @@ fieldset:disabled .btn {
 
 .form-control:focus {
   color: #111827;
+  padding-left:30px;
 }
 .form-control:focus::-webkit-input-placeholder, .form-control:focus::placeholder {
   color: #9CA3AF;
@@ -10471,7 +10473,7 @@ table.table-bordered thead tr th p {
 .card .card-title {
   font-size: 18px;
   font-weight: 600;
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
   color: #111827;
 }
 @media (max-width: 767.98px) {

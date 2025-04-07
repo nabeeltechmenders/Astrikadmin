@@ -85,16 +85,27 @@
                      <li><a href="add-department.php"><i class="fa-regular fa-building"></i><span>Add Department</span></a></li>
                     <li><a href="add-designations.php"><i class="fa-solid fa-user"></i><span>Add Designations</span></a></li>
                     <li><a href="add-policy.php"><i class="fa-solid fa-book"></i><span>Add Policy</span></a></li>
-                    <li><a href="add-company.php"><i class="fa-solid fa-book"></i><span>Add Company</span></a></li>
+                    <li><a href="add-company.php"><i class="fa-solid fa-building"></i><span>Add Company</span></a></li>
                     <!-- <li><a href="team-leaves.php"><i class="ti ti-beach"></i><span>Team Leaves</span></a></li>
                     <li><a href="team-payroll.php"><i class="ti ti-brand-mastercard"></i><span>Team Payroll</span></a></li>
                     <li><a href="termination.php"><i class="ti ti-ban"></i><span>Termination</span></a></li>
                     <li><a href="resignation.php"><i class="ti ti-file-export"></i><span>Resignation</span></a></li> -->
                     <!-- <li><a href="add-employee.php"><i class="ti ti-user"></i><span>Add Employee</span></a></li> -->
                   
-                   
-                   
-                    
+                    <li class="submenu">
+                           <a href="javascript:void(0);" class="">
+                                <i class="ti ti-user-star"></i><span>Settings</span>
+                                <span class="menu-arrow"></span>
+                            </a>
+                            <ul>
+                                <li><a href="single-company-setup.php" class="">Single Company Setup</a></li>
+                                <li><a href="group-company-setup.php" class="">Group Company Setup</a></li>
+                                <li><a href="sister-company-setup.php" class="">Sister Company Setup</a></li>
+                                <li><a href="sister-concerned-company.php" class="">Sister concerned company</a></li>
+                                <li><a href="add-company-setup.php" class="">Add company setup</a></li>
+                                
+                            </ul>
+                    </li>
                 </ul>
             </li>
         </ul>
