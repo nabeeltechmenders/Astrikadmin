@@ -261,12 +261,15 @@
                                 <div class="mb-3 row align-items-center">
                                     <label class="form-label text-wrap col-md-2">State</label>
                                     <div class="col-md-10">
-                                        <select class="form-select">
+                                     <select id="state" class="form-select">
+                                        <option>_</option>
+                                    </select>
+                                        <!-- <select class="form-select">
                                             <option>1</option>
                                             <option>2</option>
                                             <option>3</option>
                                             <option>4</option>
-                                        </select>
+                                        </select> -->
                                     </div>
                                 </div>
                             </div>
@@ -275,12 +278,15 @@
                                 <div class="mb-3 row align-items-center">
                                     <label class="form-label text-wrap col-md-2">Country</label>
                                     <div class="col-md-10">
-                                        <select class="form-select">
+                                    <select id="country" class="form-select">
+                                        <option>select country</option>
+                                    </select>
+                                        <!-- <select class="form-select">
                                             <option>1</option>
                                             <option>2</option>
                                             <option>3</option>
                                             <option>4</option>
-                                        </select>
+                                        </select> -->
                                     </div>
                                 </div>
                             </div>
@@ -758,6 +764,60 @@
             document.getElementById(id).classList.add('selected');
         }
     </script>
+
+<script>
+// user country code for selected option
+var user_country_code = "USA";
+
+(() => {
+    // script https://www.html-code-generator.com/html/drop-down/state-name
+
+    // Get the country name and state name from the imported script.
+    const country_list = country_and_states.country;
+    const state_list = country_and_states.states;
+
+    const id_state_option = document.getElementById("state");
+    const id_country_option = document.getElementById("country");
+
+    const create_country_selection = () => {
+        let option = '';
+        option += '<option value="">select country</option>';
+        for (const country_code in country_list) {
+            // set selected option user country
+            let selected = (country_code == user_country_code) ? ' selected' : '';
+            option += '<option value="' + country_code + '"' + selected + '> '
+            + country_list[country_code] + '</option>';
+        }
+        id_country_option.innerHTML = option;
+    };
+
+    const create_states_selection = () => {
+        // selected country code
+        let selected_country_code = id_country_option.value;
+        // get state names by selected country-code
+        let state_names = state_list[selected_country_code];
+
+        // if invalid country code
+        if (!state_names) {
+            id_state_option.innerHTML = '<option>select state</option>';
+            return;
+        }
+        // create option
+        let option = '';
+        option += '<option>select state</option>';
+        state_names.forEach(state => {
+            option += '<option value="' + state.code + '">' + state.name + '</option>';
+        });
+        id_state_option.innerHTML = option;
+    };
+
+    // country select change event update state code
+    id_country_option.addEventListener('change', create_states_selection);
+
+    create_country_selection();
+    create_states_selection();
+})();
+</script>
 </body>
 
 </html>
